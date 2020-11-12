@@ -1,0 +1,1321 @@
+,Election Name,County Name,Office Name,Party Name,Votes,prop,fips
+0,2018 General Election,ADAMS,United States Senator,Democratic,14813,0.3799179276737625,42001
+1,2018 General Election,ADAMS,United States Senator,Republican,23374,0.5994870479610156,42001
+2,2018 General Election,ADAMS,United States Senator,Green,292,0.007489099769171582,42001
+3,2018 General Election,ADAMS,United States Senator,Libertarian,511,0.01310592459605027,42001
+4,2018 General Election,ADAMS,Governor,Democratic,15797,0.40559207147992193,42001
+5,2018 General Election,ADAMS,Governor,Republican,22463,0.5767433501078361,42001
+6,2018 General Election,ADAMS,Governor,Green,254,0.0065215158673102595,42001
+7,2018 General Election,ADAMS,Governor,Libertarian,434,0.011143062544931704,42001
+8,2018 General Election,ADAMS,Representative in Congress,Democratic,13228,0.34110366168127904,42001
+9,2018 General Election,ADAMS,Representative in Congress,Republican,25552,0.658896338318721,42001
+10,2018 General Election,ADAMS,Representative in the General Assembly,Democratic,9279,0.23844275986123603,42001
+11,2018 General Election,ADAMS,Representative in the General Assembly,Republican,15891,0.40835153539766156,42001
+12,2018 General Election,ADAMS,Representative in the General Assembly,Democratic,4125,0.10600025697031992,42001
+13,2018 General Election,ADAMS,Representative in the General Assembly,Republican,9620,0.2472054477707825,42001
+14,2018 General Election,ALLEGHENY,United States Senator,Democratic,351796,0.6563799061130972,42003
+15,2018 General Election,ALLEGHENY,United States Senator,Republican,174846,0.32622713465829795,42003
+16,2018 General Election,ALLEGHENY,United States Senator,Green,3195,0.0059612212760558544,42003
+17,2018 General Election,ALLEGHENY,United States Senator,Libertarian,6127,0.011431737952549053,42003
+18,2018 General Election,ALLEGHENY,Governor,Democratic,360974,0.6733886011909204,42003
+19,2018 General Election,ALLEGHENY,Governor,Republican,167481,0.3124319100989449,42003
+20,2018 General Election,ALLEGHENY,Governor,Green,2426,0.004525646574238512,42003
+21,2018 General Election,ALLEGHENY,Governor,Libertarian,5175,0.00965384213589625,42003
+22,2018 General Election,ALLEGHENY,Representative in Congress,Democratic,144555,0.3041303917897102,42003
+23,2018 General Election,ALLEGHENY,Representative in Congress,Republican,101653,0.21386853942512823,42003
+24,2018 General Election,ALLEGHENY,Representative in Congress,Democratic,229098,0.4820010687851616,42003
+25,2018 General Election,ALLEGHENY,Senator in the General Assembly,Democratic,61455,0.29585784573315743,42003
+26,2018 General Election,ALLEGHENY,Senator in the General Assembly,Republican,60906,0.2932148393495027,42003
+27,2018 General Election,ALLEGHENY,Senator in the General Assembly,Democratic,85357,0.41092731491733986,42003
+28,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,936,0.0019810823567260496,42003
+29,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,17534,0.0371114295329429,42003
+30,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,21719,0.0459691535317661,42003
+31,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,19766,0.041835548998981946,42003
+32,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,22414,0.04744014951245479,42003
+33,2018 General Election,ALLEGHENY,Representative in the General Assembly,Green,2332,0.004935773563979859,42003
+34,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,24994,0.05290082523932787,42003
+35,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,13963,0.029553261695476316,42003
+36,2018 General Election,ALLEGHENY,Representative in the General Assembly,Republican,10278,0.0217538081863572,42003
+37,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,19413,0.04108841003325086,42003
+38,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,14915,0.0315682087078729,42003
+39,2018 General Election,ALLEGHENY,Representative in the General Assembly,Republican,17902,0.03789031661336511,42003
+40,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,15682,0.03319159563907897,42003
+41,2018 General Election,ALLEGHENY,Representative in the General Assembly,Republican,17172,0.036345241698397146,42003
+42,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,22726,0.048100510298030134,42003
+43,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,9559,0.020232015222162725,42003
+44,2018 General Election,ALLEGHENY,Representative in the General Assembly,Republican,7798,0.016504786557424933,42003
+45,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,21123,0.044707695108038834,42003
+46,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,15080,0.03191743796947524,42003
+47,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,19089,0.04040265075592261,42003
+48,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,19975,0.042277906063678254,42003
+49,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,9700,0.020530447500259275,42003
+50,2018 General Election,ALLEGHENY,Representative in the General Assembly,Republican,11650,0.024657702410105214,42003
+51,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,10533,0.022293526136106284,42003
+52,2018 General Election,ALLEGHENY,Representative in the General Assembly,Republican,11324,0.023967710050818148,42003
+53,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,23837,0.050451987326152616,42003
+54,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,14023,0.029680254154240807,42003
+55,2018 General Election,ALLEGHENY,Representative in the General Assembly,Republican,15094,0.03194706954318696,42003
+56,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,20781,0.04398383809308124,42003
+57,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,6922,0.014650696659463372,42003
+58,2018 General Election,ALLEGHENY,Representative in the General Assembly,Republican,7482,0.015835959607931948,42003
+59,2018 General Election,ALLEGHENY,Representative in the General Assembly,Democratic,2927,0.006195115446727722,42003
+60,2018 General Election,ALLEGHENY,Representative in the General Assembly,Republican,3826,0.008097885787215668,42003
+61,2018 General Election,ARMSTRONG,United States Senator,Democratic,8304,0.34948024073060896,42005
+62,2018 General Election,ARMSTRONG,United States Senator,Republican,14999,0.6312444762425824,42005
+63,2018 General Election,ARMSTRONG,United States Senator,Green,154,0.006481208703337402,42005
+64,2018 General Election,ARMSTRONG,United States Senator,Libertarian,304,0.012794074323471235,42005
+65,2018 General Election,ARMSTRONG,Governor,Democratic,8565,0.3580386255329822,42005
+66,2018 General Election,ARMSTRONG,Governor,Republican,14942,0.6246133266449293,42005
+67,2018 General Election,ARMSTRONG,Governor,Green,146,0.0061031686313853355,42005
+68,2018 General Election,ARMSTRONG,Governor,Libertarian,269,0.01124487919070312,42005
+69,2018 General Election,ARMSTRONG,Representative in Congress,Democratic,7266,0.3084433501719234,42005
+70,2018 General Election,ARMSTRONG,Representative in Congress,Republican,16291,0.6915566498280766,42005
+71,2018 General Election,ARMSTRONG,Representative in the General Assembly,Democratic,1348,0.06594266705801781,42005
+72,2018 General Election,ARMSTRONG,Representative in the General Assembly,Republican,13294,0.6503277565795911,42005
+73,2018 General Election,ARMSTRONG,Representative in the General Assembly,Democratic,1103,0.05395753840133059,42005
+74,2018 General Election,ARMSTRONG,Representative in the General Assembly,Republican,4697,0.22977203796106055,42005
+75,2018 General Election,BEAVER,United States Senator,Democratic,34403,0.5090782639577384,42007
+76,2018 General Election,BEAVER,United States Senator,Republican,31895,0.4719661433285488,42007
+77,2018 General Election,BEAVER,United States Senator,Green,436,0.0064517083709436365,42007
+78,2018 General Election,BEAVER,United States Senator,Libertarian,845,0.012503884342769203,42007
+79,2018 General Election,BEAVER,Governor,Democratic,36141,0.532825192764157,42007
+80,2018 General Election,BEAVER,Governor,Republican,30571,0.4507069247666927,42007
+81,2018 General Election,BEAVER,Governor,Green,406,0.005985640360317858,42007
+82,2018 General Election,BEAVER,Governor,Libertarian,711,0.010482242108832505,42007
+83,2018 General Election,BEAVER,Representative in Congress,Democratic,32782,0.4830329909970973,42007
+84,2018 General Election,BEAVER,Representative in Congress,Republican,35085,0.5169670090029027,42007
+85,2018 General Election,BEAVER,Senator in the General Assembly,Democratic,6067,0.5299615653389238,42007
+86,2018 General Election,BEAVER,Senator in the General Assembly,Republican,5381,0.47003843466107614,42007
+87,2018 General Election,BEAVER,Representative in the General Assembly,Democratic / Republican,6421,0.10359124935467218,42007
+88,2018 General Election,BEAVER,Representative in the General Assembly,Green,2268,0.03659008776458441,42007
+89,2018 General Election,BEAVER,Representative in the General Assembly,Democratic,7162,0.11554594734124936,42007
+90,2018 General Election,BEAVER,Representative in the General Assembly,Republican,12358,0.1993740320082602,42007
+91,2018 General Election,BEAVER,Representative in the General Assembly,Democratic,6916,0.1115771812080537,42007
+92,2018 General Election,BEAVER,Representative in the General Assembly,Republican,9278,0.1496837893649974,42007
+93,2018 General Election,BEAVER,Representative in the General Assembly,Democratic,17581,0.28363771295818274,42007
+94,2018 General Election,BEDFORD,United States Senator,Democratic,4423,0.2502970969384868,42009
+95,2018 General Election,BEDFORD,United States Senator,Republican,13036,0.7377058457359515,42009
+96,2018 General Election,BEDFORD,United States Senator,Green,83,0.004696961122743478,42009
+97,2018 General Election,BEDFORD,United States Senator,Libertarian,129,0.007300096202818177,42009
+98,2018 General Election,BEDFORD,Governor,Democratic,4250,0.24001807194894675,42009
+99,2018 General Election,BEDFORD,Governor,Republican,13262,0.748969334161631,42009
+100,2018 General Election,BEDFORD,Governor,Green,84,0.004743886598520359,42009
+101,2018 General Election,BEDFORD,Governor,Libertarian,111,0.006268707290901903,42009
+102,2018 General Election,BEDFORD,Representative in Congress,Democratic,3463,0.19531866892272984,42009
+103,2018 General Election,BEDFORD,Representative in Congress,Republican,14267,0.8046813310772701,42009
+104,2018 General Election,BEDFORD,Representative in the General Assembly,Democratic,772,0.0434660210573729,42009
+105,2018 General Election,BEDFORD,Representative in the General Assembly,Republican,4024,0.226563819604752,42009
+106,2018 General Election,BEDFORD,Representative in the General Assembly,Democratic,2931,0.16502449186419685,42009
+107,2018 General Election,BEDFORD,Representative in the General Assembly,Republican,10034,0.5649456674736782,42009
+108,2018 General Election,BERKS,United States Senator,Democratic,71277,0.5094598554754229,42011
+109,2018 General Election,BERKS,United States Senator,Republican,66053,0.4721207659373727,42011
+110,2018 General Election,BERKS,United States Senator,Green,938,0.006704453672796929,42011
+111,2018 General Election,BERKS,United States Senator,Libertarian,1639,0.011714924914407428,42011
+112,2018 General Election,BERKS,Governor,Democratic,73717,0.5269489756529944,42011
+113,2018 General Election,BERKS,Governor,Republican,63719,0.4554805781520294,42011
+114,2018 General Election,BERKS,Governor,Green,880,0.006290477075500021,42011
+115,2018 General Election,BERKS,Governor,Libertarian,1578,0.011279969119476175,42011
+116,2018 General Election,BERKS,Representative in Congress,Democratic,2838,0.02039115377430341,42011
+117,2018 General Election,BERKS,Representative in Congress,Republican,4163,0.02991133656181293,42011
+118,2018 General Election,BERKS,Representative in Congress,Democratic,36687,0.2635976950380089,42011
+119,2018 General Election,BERKS,Representative in Congress,Republican,26142,0.18783141013665952,42011
+120,2018 General Election,BERKS,Representative in Congress,Democratic,30621,0.22001322048024832,42011
+121,2018 General Election,BERKS,Representative in Congress,Republican,38727,0.2782551840089669,42011
+122,2018 General Election,BERKS,Senator in the General Assembly,Democratic,4836,0.23292553703882093,42011
+123,2018 General Election,BERKS,Senator in the General Assembly,Republican,7904,0.3806955013967826,42011
+124,2018 General Election,BERKS,Senator in the General Assembly,Democratic,3379,0.16274925344379154,42011
+125,2018 General Election,BERKS,Senator in the General Assembly,Republican,4643,0.22362970812060495,42011
+126,2018 General Election,BERKS,Representative in the General Assembly,Republican,17614,0.1448650782554343,42011
+127,2018 General Election,BERKS,Representative in the General Assembly,Republican,5604,0.04608969561391244,42011
+128,2018 General Election,BERKS,Representative in the General Assembly,Democratic,14972,0.12313613895993882,42011
+129,2018 General Election,BERKS,Representative in the General Assembly,Democratic,8158,0.06709488522810451,42011
+130,2018 General Election,BERKS,Representative in the General Assembly,Republican,2026,0.01666269152637163,42011
+131,2018 General Election,BERKS,Representative in the General Assembly,Democratic,10011,0.08233475067645922,42011
+132,2018 General Election,BERKS,Representative in the General Assembly,Republican,14252,0.11721455065836547,42011
+133,2018 General Election,BERKS,Representative in the General Assembly,Democratic,10257,0.08435796001283011,42011
+134,2018 General Election,BERKS,Representative in the General Assembly,Republican,10950,0.09005748875309444,42011
+135,2018 General Election,BERKS,Representative in the General Assembly,Republican,17911,0.1473077334298333,42011
+136,2018 General Election,BERKS,Representative in the General Assembly,Democratic,2394,0.019689281102731333,42011
+137,2018 General Election,BERKS,Representative in the General Assembly,Republican,4085,0.033596789183232036,42011
+138,2018 General Election,BERKS,Representative in the General Assembly,Democratic,1736,0.014277607349349037,42011
+139,2018 General Election,BERKS,Representative in the General Assembly,Republican,1619,0.01331534925034337,42011
+140,2018 General Election,BLAIR,United States Senator,Democratic,13966,0.33675733024691357,42013
+141,2018 General Election,BLAIR,United States Senator,Republican,26782,0.6457851080246914,42013
+142,2018 General Election,BLAIR,United States Senator,Green,251,0.006052276234567901,42013
+143,2018 General Election,BLAIR,United States Senator,Libertarian,473,0.01140528549382716,42013
+144,2018 General Election,BLAIR,Governor,Democratic,14003,0.3346877315423409,42013
+145,2018 General Election,BLAIR,Governor,Republican,27138,0.6486292693420015,42013
+146,2018 General Election,BLAIR,Governor,Green,209,0.004995339276751357,42013
+147,2018 General Election,BLAIR,Governor,Libertarian,489,0.011687659838906284,42013
+148,2018 General Election,BLAIR,Representative in Congress,Democratic,11973,0.287342805030239,42013
+149,2018 General Election,BLAIR,Representative in Congress,Republican,29695,0.712657194969761,42013
+150,2018 General Election,BLAIR,Senator in the General Assembly,Democratic,12020,0.28756668819828224,42013
+151,2018 General Election,BLAIR,Senator in the General Assembly,Republican,29779,0.7124333118017178,42013
+152,2018 General Election,BLAIR,Representative in the General Assembly,Republican,14572,0.3867611540196937,42013
+153,2018 General Election,BLAIR,Representative in the General Assembly,Democratic,5886,0.15622262919022215,42013
+154,2018 General Election,BLAIR,Representative in the General Assembly,Republican,17219,0.45701621679008414,42013
+155,2018 General Election,BRADFORD,United States Senator,Democratic,6876,0.33987445010132966,42015
+156,2018 General Election,BRADFORD,United States Senator,Republican,12988,0.6419850724136227,42015
+157,2018 General Election,BRADFORD,United States Senator,Green,141,0.006969502249023775,42015
+158,2018 General Election,BRADFORD,United States Senator,Libertarian,226,0.011170975236023924,42015
+159,2018 General Election,BRADFORD,Governor,Democratic,6810,0.33498942397560133,42015
+160,2018 General Election,BRADFORD,Governor,Republican,13026,0.640759506124256,42015
+161,2018 General Election,BRADFORD,Governor,Green,175,0.008608391952383295,42015
+162,2018 General Election,BRADFORD,Governor,Libertarian,318,0.015642677947759358,42015
+163,2018 General Election,BRADFORD,Representative in Congress,Democratic,5691,0.28532036498546076,42015
+164,2018 General Election,BRADFORD,Representative in Congress,Republican,14255,0.7146796350145392,42015
+165,2018 General Election,BRADFORD,Representative in the General Assembly,Democratic,1138,0.05614208189442526,42015
+166,2018 General Election,BRADFORD,Representative in the General Assembly,Republican,4547,0.22432165762210163,42015
+167,2018 General Election,BRADFORD,Representative in the General Assembly,Democratic,4178,0.20611741489886531,42015
+168,2018 General Election,BRADFORD,Representative in the General Assembly,Republican,10407,0.5134188455846078,42015
+169,2018 General Election,BUCKS,United States Senator,Democratic,164890,0.5614633664647455,42017
+170,2018 General Election,BUCKS,United States Senator,Republican,123990,0.4221956626112184,42017
+171,2018 General Election,BUCKS,United States Senator,Green,1909,0.006500294539275876,42017
+172,2018 General Election,BUCKS,United States Senator,Libertarian,2890,0.009840676384760232,42017
+173,2018 General Election,BUCKS,Governor,Democratic,171903,0.5850543182313221,42017
+174,2018 General Election,BUCKS,Governor,Republican,117786,0.40087263123502503,42017
+175,2018 General Election,BUCKS,Governor,Green,1521,0.005176568285776519,42017
+176,2018 General Election,BUCKS,Governor,Libertarian,2614,0.00889648224787628,42017
+177,2018 General Election,BUCKS,Representative in Congress,Democratic,140968,0.48069453963902214,42017
+178,2018 General Election,BUCKS,Representative in Congress,Republican,152291,0.5193054603609778,42017
+179,2018 General Election,BUCKS,Senator in the General Assembly,Democratic,54219,0.18500042651198498,42017
+180,2018 General Election,BUCKS,Senator in the General Assembly,Republican,54319,0.18534163609997442,42017
+181,2018 General Election,BUCKS,Senator in the General Assembly,Democratic,67221,0.2293644971423697,42017
+182,2018 General Election,BUCKS,Senator in the General Assembly,Republican,60856,0.20764650686684297,42017
+183,2018 General Election,BUCKS,Senator in the General Assembly,Democratic,16645,0.05679433592083938,42017
+184,2018 General Election,BUCKS,Senator in the General Assembly,Republican,17581,0.05998805766442037,42017
+185,2018 General Election,BUCKS,Senator in the General Assembly,Democratic,9816,0.033493133157041714,42017
+186,2018 General Election,BUCKS,Senator in the General Assembly,Republican,12418,0.042371406636526485,42017
+187,2018 General Election,BUCKS,Representative in the General Assembly,Democratic,9882,0.034506961103719924,42017
+188,2018 General Election,BUCKS,Representative in the General Assembly,Republican,12861,0.04490933280256445,42017
+189,2018 General Election,BUCKS,Representative in the General Assembly,Democratic,15115,0.05278007661229778,42017
+190,2018 General Election,BUCKS,Representative in the General Assembly,Republican,16539,0.05775254297656585,42017
+191,2018 General Election,BUCKS,Representative in the General Assembly,Democratic,20519,0.0716503071126522,42017
+192,2018 General Election,BUCKS,Representative in the General Assembly,Republican,13722,0.047915859164667556,42017
+193,2018 General Election,BUCKS,Representative in the General Assembly,Democratic,17473,0.06101397807784843,42017
+194,2018 General Election,BUCKS,Representative in the General Assembly,Democratic,13332,0.04655401795535256,42017
+195,2018 General Election,BUCKS,Representative in the General Assembly,Republican,8131,0.02839264326394927,42017
+196,2018 General Election,BUCKS,Representative in the General Assembly,Democratic,14216,0.04964085802979988,42017
+197,2018 General Election,BUCKS,Representative in the General Assembly,Republican,18152,0.06338497854227121,42017
+198,2018 General Election,BUCKS,Representative in the General Assembly,Democratic,17269,0.06030163036836059,42017
+199,2018 General Election,BUCKS,Representative in the General Assembly,Republican,16744,0.0584683825865904,42017
+200,2018 General Election,BUCKS,Representative in the General Assembly,Democratic,14830,0.05178488495933682,42017
+201,2018 General Election,BUCKS,Representative in the General Assembly,Republican,15437,0.05390446858511682,42017
+202,2018 General Election,BUCKS,Representative in the General Assembly,Democratic,11975,0.04181550892704372,42017
+203,2018 General Election,BUCKS,Representative in the General Assembly,Republican,15590,0.0544387293672327,42017
+204,2018 General Election,BUCKS,Representative in the General Assembly,Democratic,16972,0.05926453590895917,42017
+205,2018 General Election,BUCKS,Representative in the General Assembly,Republican,17618,0.06152030365567067,42017
+206,2018 General Election,BUTLER,United States Senator,Democratic,29595,0.3886051183738855,42019
+207,2018 General Election,BUTLER,United States Senator,Republican,45006,0.5909634045458724,42019
+208,2018 General Election,BUTLER,United States Senator,Green,465,0.006105807739275444,42019
+209,2018 General Election,BUTLER,United States Senator,Libertarian,1091,0.014325669340966686,42019
+210,2018 General Election,BUTLER,Governor,Democratic,31437,0.4114629006714396,42019
+211,2018 General Election,BUTLER,Governor,Republican,43446,0.5686425925683547,42019
+212,2018 General Election,BUTLER,Governor,Green,470,0.006151590906116252,42019
+213,2018 General Election,BUTLER,Governor,Libertarian,1050,0.013742915854089498,42019
+214,2018 General Election,BUTLER,Representative in Congress,Democratic,3862,0.0506047145459072,42019
+215,2018 General Election,BUTLER,Representative in Congress,Republican,9940,0.13024620988770522,42019
+216,2018 General Election,BUTLER,Representative in Congress,Democratic,19451,0.2548711296303576,42019
+217,2018 General Election,BUTLER,Representative in Congress,Republican,34055,0.4462308528899197,42019
+218,2018 General Election,BUTLER,Representative in Congress,Libertarian,752,0.009853636804381723,42019
+219,2018 General Election,BUTLER,Representative in Congress,Democratic,3850,0.0504474756607309,42019
+220,2018 General Election,BUTLER,Representative in Congress,Republican,4407,0.05774598058099768,42019
+221,2018 General Election,BUTLER,Representative in the General Assembly,Democratic,2859,0.03889213859150331,42019
+222,2018 General Election,BUTLER,Representative in the General Assembly,Republican,6733,0.09159173457033641,42019
+223,2018 General Election,BUTLER,Representative in the General Assembly,Democratic / Republican,1818,0.024730992640557194,42019
+224,2018 General Election,BUTLER,Representative in the General Assembly,Green,658,0.008951041340751724,42019
+225,2018 General Election,BUTLER,Representative in the General Assembly,Republican,15563,0.2117098121369591,42019
+226,2018 General Election,BUTLER,Representative in the General Assembly,Independent,4793,0.06520112636204106,42019
+227,2018 General Election,BUTLER,Representative in the General Assembly,Democratic,12250,0.16664172708846295,42019
+228,2018 General Election,BUTLER,Representative in the General Assembly,Republican,17189,0.23382895076927263,42019
+229,2018 General Election,BUTLER,Representative in the General Assembly,Democratic,2241,0.030485233502469018,42019
+230,2018 General Election,BUTLER,Representative in the General Assembly,Republican,3734,0.0507951190978221,42019
+231,2018 General Election,BUTLER,Representative in the General Assembly,Republican,3814,0.051883391601256955,42019
+232,2018 General Election,BUTLER,Representative in the General Assembly,Democratic,425,0.005781447674497694,42019
+233,2018 General Election,BUTLER,Representative in the General Assembly,Republican,1434,0.01950728462406987,42019
+234,2018 General Election,CAMBRIA,United States Senator,Democratic,20878,0.434940210824549,42021
+235,2018 General Election,CAMBRIA,United States Senator,Republican,26491,0.5518728386317237,42021
+236,2018 General Election,CAMBRIA,United States Senator,Green,239,0.004978959210032915,42021
+237,2018 General Election,CAMBRIA,United States Senator,Libertarian,394,0.00820799133369443,42021
+238,2018 General Election,CAMBRIA,Governor,Democratic,20908,0.4328151199619103,42021
+239,2018 General Election,CAMBRIA,Governor,Republican,26697,0.5526528246423914,42021
+240,2018 General Election,CAMBRIA,Governor,Green,303,0.00627238288446809,42021
+241,2018 General Election,CAMBRIA,Governor,Libertarian,399,0.008259672511230257,42021
+242,2018 General Election,CAMBRIA,Representative in Congress,Democratic,6844,0.14303329223181258,42021
+243,2018 General Election,CAMBRIA,Representative in Congress,Republican,8836,0.1846642563062969,42021
+244,2018 General Election,CAMBRIA,Representative in Congress,Democratic,11106,0.23210516416226046,42021
+245,2018 General Election,CAMBRIA,Representative in Congress,Republican,21063,0.4401972872996301,42021
+246,2018 General Election,CAMBRIA,Representative in the General Assembly,Democratic,10149,0.21210917906704566,42021
+247,2018 General Election,CAMBRIA,Representative in the General Assembly,Republican,11054,0.23102324026082593,42021
+248,2018 General Election,CAMBRIA,Representative in the General Assembly,Democratic,11434,0.23896505601070056,42021
+249,2018 General Election,CAMBRIA,Representative in the General Assembly,Republican,10396,0.21727135930446415,42021
+250,2018 General Election,CAMBRIA,Representative in the General Assembly,Democratic / Republican,4815,0.10063116535696372,42021
+251,2018 General Election,CAMERON,United States Senator,Democratic,611,0.36851628468033776,42023
+252,2018 General Election,CAMERON,United States Senator,Republican,1017,0.6133896260554885,42023
+253,2018 General Election,CAMERON,United States Senator,Green,9,0.005428226779252111,42023
+254,2018 General Election,CAMERON,United States Senator,Libertarian,21,0.012665862484921592,42023
+255,2018 General Election,CAMERON,Governor,Democratic,574,0.34474474474474476,42023
+256,2018 General Election,CAMERON,Governor,Republican,1066,0.6402402402402403,42023
+257,2018 General Election,CAMERON,Governor,Green,9,0.005405405405405406,42023
+258,2018 General Election,CAMERON,Governor,Libertarian,16,0.00960960960960961,42023
+259,2018 General Election,CAMERON,Representative in Congress,Democratic,487,0.2928442573662057,42023
+260,2018 General Election,CAMERON,Representative in Congress,Republican,1176,0.7071557426337943,42023
+261,2018 General Election,CAMERON,Representative in the General Assembly,Democratic,409,0.24594107035478052,42023
+262,2018 General Election,CAMERON,Representative in the General Assembly,Republican,1254,0.7540589296452195,42023
+263,2018 General Election,CARBON,United States Senator,Democratic,8488,0.3856779352962559,42025
+264,2018 General Election,CARBON,United States Senator,Republican,13211,0.600281715739731,42025
+265,2018 General Election,CARBON,United States Senator,Green,118,0.005361686659396583,42025
+266,2018 General Election,CARBON,United States Senator,Libertarian,191,0.008678662304616502,42025
+267,2018 General Election,CARBON,Governor,Democratic,9385,0.42695964696783584,42025
+268,2018 General Election,CARBON,Governor,Republican,12199,0.5549793003048087,42025
+269,2018 General Election,CARBON,Governor,Green,138,0.006278149310768391,42025
+270,2018 General Election,CARBON,Governor,Libertarian,259,0.011782903416587052,42025
+271,2018 General Election,CARBON,Representative in Congress,Democratic,8648,0.39689751709578225,42025
+272,2018 General Election,CARBON,Representative in Congress,Republican,13141,0.6031024829042178,42025
+273,2018 General Election,CARBON,Senator in the General Assembly,Democratic,11527,1.0,42025
+274,2018 General Election,CARBON,Representative in the General Assembly,Democratic,6853,0.31722445956580103,42025
+275,2018 General Election,CARBON,Representative in the General Assembly,Republican,14033,0.6495857056890246,42025
+276,2018 General Election,CARBON,Representative in the General Assembly,Republican,717,0.033189834745174285,42025
+277,2018 General Election,CENTRE,United States Senator,Democratic,34550,0.5723136046646458,42027
+278,2018 General Election,CENTRE,United States Senator,Republican,24270,0.4020275306862794,42027
+279,2018 General Election,CENTRE,United States Senator,Green,627,0.010386125329225265,42027
+280,2018 General Election,CENTRE,United States Senator,Libertarian,922,0.015272739319849592,42027
+281,2018 General Election,CENTRE,Governor,Democratic,34818,0.5755707271915759,42027
+282,2018 General Election,CENTRE,Governor,Republican,24316,0.4019638635875225,42027
+283,2018 General Election,CENTRE,Governor,Green,511,0.008447258360471459,42027
+284,2018 General Election,CENTRE,Governor,Libertarian,848,0.014018150860430132,42027
+285,2018 General Election,CENTRE,Representative in Congress,Democratic,21776,0.36116962168079214,42027
+286,2018 General Election,CENTRE,Representative in Congress,Republican,12621,0.20932778266133714,42027
+287,2018 General Election,CENTRE,Representative in Congress,Democratic,10626,0.1762393644369993,42027
+288,2018 General Election,CENTRE,Representative in Congress,Republican,15270,0.2532632312208714,42027
+289,2018 General Election,CENTRE,Senator in the General Assembly,Democratic,31629,0.5256082159000266,42027
+290,2018 General Election,CENTRE,Senator in the General Assembly,Republican,28547,0.4743917840999734,42027
+291,2018 General Election,CENTRE,Representative in the General Assembly,Democratic,3742,0.06603490567702543,42027
+292,2018 General Election,CENTRE,Representative in the General Assembly,Republican,4674,0.0824818677537191,42027
+293,2018 General Election,CENTRE,Representative in the General Assembly,Democratic,14909,0.26309845236204493,42027
+294,2018 General Election,CENTRE,Representative in the General Assembly,Democratic,4111,0.07254663207863483,42027
+295,2018 General Election,CENTRE,Representative in the General Assembly,Republican,3654,0.0644819736354492,42027
+296,2018 General Election,CENTRE,Representative in the General Assembly,Libertarian,344,0.006070552526161611,42027
+297,2018 General Election,CENTRE,Representative in the General Assembly,Democratic,11292,0.19926941606225845,42027
+298,2018 General Election,CENTRE,Representative in the General Assembly,Republican,13941,0.24601619990470644,42027
+299,2018 General Election,CHESTER,United States Senator,Democratic,139170,0.5910909507912643,42029
+300,2018 General Election,CHESTER,United States Senator,Republican,92097,0.39115975637725847,42029
+301,2018 General Election,CHESTER,United States Senator,Green,1574,0.006685184713267586,42029
+302,2018 General Election,CHESTER,United States Senator,Libertarian,2605,0.011064108118209695,42029
+303,2018 General Election,CHESTER,Governor,Democratic,144493,0.6128115629784509,42029
+304,2018 General Election,CHESTER,Governor,Republican,87619,0.37160233600665005,42029
+305,2018 General Election,CHESTER,Governor,Green,1233,0.005229295932345719,42029
+306,2018 General Election,CHESTER,Governor,Libertarian,2442,0.010356805082553322,42029
+307,2018 General Election,CHESTER,Representative in Congress,Democratic,0,0.0,42029
+308,2018 General Election,CHESTER,Representative in Congress,Republican,0,0.0,42029
+309,2018 General Election,CHESTER,Representative in Congress,Democratic,138829,0.5892997372475942,42029
+310,2018 General Election,CHESTER,Representative in Congress,Republican,96754,0.41070026275240573,42029
+311,2018 General Election,CHESTER,Senator in the General Assembly,Democratic,6373,0.08709377647798398,42029
+312,2018 General Election,CHESTER,Senator in the General Assembly,Republican,5844,0.07986443272200508,42029
+313,2018 General Election,CHESTER,Senator in the General Assembly,Democratic,31589,0.4316970508650614,42029
+314,2018 General Election,CHESTER,Senator in the General Assembly,Republican,29368,0.40134473993494957,42029
+315,2018 General Election,CHESTER,Representative in the General Assembly,Democratic,10884,0.046215186809733896,42029
+316,2018 General Election,CHESTER,Representative in the General Assembly,Republican,12999,0.05519581158946443,42029
+317,2018 General Election,CHESTER,Representative in the General Assembly,Libertarian,306,0.0012993244362163334,42029
+318,2018 General Election,CHESTER,Representative in the General Assembly,Democratic,11080,0.04704743383423847,42029
+319,2018 General Election,CHESTER,Representative in the General Assembly,Republican,13775,0.05849083042117644,42029
+320,2018 General Election,CHESTER,Representative in the General Assembly,Democratic,14625,0.06210006496622181,42029
+321,2018 General Election,CHESTER,Representative in the General Assembly,Republican,9200,0.039064656252255775,42029
+322,2018 General Election,CHESTER,Representative in the General Assembly,Democratic,18407,0.07815903561252957,42029
+323,2018 General Election,CHESTER,Representative in the General Assembly,Republican,15293,0.06493649870279865,42029
+324,2018 General Election,CHESTER,Representative in the General Assembly,Democratic,17802,0.07559010984811491,42029
+325,2018 General Election,CHESTER,Representative in the General Assembly,Republican,13694,0.05814689159982506,42029
+326,2018 General Election,CHESTER,Representative in the General Assembly,Democratic,14452,0.06136547958234787,42029
+327,2018 General Election,CHESTER,Representative in the General Assembly,Republican,10895,0.04626189455090507,42029
+328,2018 General Election,CHESTER,Representative in the General Assembly,Democratic,15607,0.06626979240532128,42029
+329,2018 General Election,CHESTER,Representative in the General Assembly,Republican,13619,0.05782842972820341,42029
+330,2018 General Election,CHESTER,Representative in the General Assembly,Democratic,5985,0.025413257355407694,42029
+331,2018 General Election,CHESTER,Representative in the General Assembly,Republican,4269,0.018126849732704335,42029
+332,2018 General Election,CHESTER,Representative in the General Assembly,Democratic,16970,0.07205730615225875,42029
+333,2018 General Election,CHESTER,Representative in the General Assembly,Republican,15645,0.06643114642027625,42029
+334,2018 General Election,CLARION,United States Senator,Democratic,4919,0.3508308965123743,42031
+335,2018 General Election,CLARION,United States Senator,Republican,8833,0.6299835960345197,42031
+336,2018 General Election,CLARION,United States Senator,Green,87,0.006204978246915341,42031
+337,2018 General Election,CLARION,United States Senator,Libertarian,182,0.012980529206190713,42031
+338,2018 General Election,CLARION,Governor,Democratic,5187,0.3682902584493042,42031
+339,2018 General Election,CLARION,Governor,Republican,8588,0.6097699517182619,42031
+340,2018 General Election,CLARION,Governor,Green,114,0.008094291394490201,42031
+341,2018 General Election,CLARION,Governor,Libertarian,195,0.013845498437943766,42031
+342,2018 General Election,CLARION,Representative in Congress,Democratic,3844,0.2786314873876486,42031
+343,2018 General Election,CLARION,Representative in Congress,Republican,9952,0.7213685126123514,42031
+344,2018 General Election,CLARION,Representative in the General Assembly,Democratic,4273,0.3034370117880983,42031
+345,2018 General Election,CLARION,Representative in the General Assembly,Republican,9809,0.6965629882119018,42031
+346,2018 General Election,CLEARFIELD,United States Senator,Democratic,9537,0.3558847675199642,42033
+347,2018 General Election,CLEARFIELD,United States Senator,Republican,16850,0.6287782670348534,42033
+348,2018 General Election,CLEARFIELD,United States Senator,Green,145,0.0054108515560862755,42033
+349,2018 General Election,CLEARFIELD,United States Senator,Libertarian,266,0.009926113889096201,42033
+350,2018 General Election,CLEARFIELD,Governor,Democratic,9233,0.34337461415448695,42033
+351,2018 General Election,CLEARFIELD,Governor,Republican,17240,0.641154375395143,42033
+352,2018 General Election,CLEARFIELD,Governor,Green,165,0.006136338279593886,42033
+353,2018 General Election,CLEARFIELD,Governor,Libertarian,251,0.009334672170776154,42033
+354,2018 General Election,CLEARFIELD,Representative in Congress,Democratic,7363,0.2743498025188166,42033
+355,2018 General Election,CLEARFIELD,Representative in Congress,Republican,19475,0.7256501974811834,42033
+356,2018 General Election,CLEARFIELD,Representative in the General Assembly,Democratic / Republican,14679,0.571478626489138,42033
+357,2018 General Election,CLEARFIELD,Representative in the General Assembly,Democratic / Republican,11007,0.42852137351086195,42033
+358,2018 General Election,CLINTON,United States Senator,Democratic,5070,0.42490781092859536,42035
+359,2018 General Election,CLINTON,United States Senator,Republican,6645,0.5569057995306739,42035
+360,2018 General Election,CLINTON,United States Senator,Green,80,0.00670465973851827,42035
+361,2018 General Election,CLINTON,United States Senator,Libertarian,137,0.011481729802212537,42035
+362,2018 General Election,CLINTON,Governor,Democratic,5292,0.4397540302476317,42035
+363,2018 General Election,CLINTON,Governor,Republican,6516,0.5414658467674921,42035
+364,2018 General Election,CLINTON,Governor,Green,67,0.005567558584011966,42035
+365,2018 General Election,CLINTON,Governor,Libertarian,159,0.013212564400864218,42035
+366,2018 General Election,CLINTON,Representative in Congress,Democratic,4441,0.3724109014675052,42035
+367,2018 General Election,CLINTON,Representative in Congress,Republican,7484,0.6275890985324948,42035
+368,2018 General Election,CLINTON,Representative in the General Assembly,Democratic,5691,0.47314599268373797,42035
+369,2018 General Election,CLINTON,Representative in the General Assembly,Republican,6337,0.5268540073162621,42035
+370,2018 General Election,COLUMBIA,United States Senator,Democratic,8525,0.3881704762772061,42037
+371,2018 General Election,COLUMBIA,United States Senator,Republican,13081,0.5956197067662325,42037
+372,2018 General Election,COLUMBIA,United States Senator,Green,137,0.006238047536654221,42037
+373,2018 General Election,COLUMBIA,United States Senator,Libertarian,219,0.009971769419907113,42037
+374,2018 General Election,COLUMBIA,Governor,Democratic,9492,0.4321420441611655,42037
+375,2018 General Election,COLUMBIA,Governor,Republican,12091,0.5504666514910084,42037
+376,2018 General Election,COLUMBIA,Governor,Green,144,0.006555884361484179,42037
+377,2018 General Election,COLUMBIA,Governor,Libertarian,238,0.010835419986341908,42037
+378,2018 General Election,COLUMBIA,Representative in Congress,Democratic,9500,0.4349617691497642,42037
+379,2018 General Election,COLUMBIA,Representative in Congress,Republican,12341,0.5650382308502357,42037
+380,2018 General Election,COLUMBIA,Representative in the General Assembly,Democratic,404,0.01837198726693952,42037
+381,2018 General Election,COLUMBIA,Representative in the General Assembly,Republican,1041,0.04733969986357435,42037
+382,2018 General Election,COLUMBIA,Representative in the General Assembly,Democratic,6915,0.3144611186903138,42037
+383,2018 General Election,COLUMBIA,Representative in the General Assembly,Republican,13630,0.6198271941791723,42037
+384,2018 General Election,CRAWFORD,United States Senator,Democratic,11151,0.3878338898163606,42039
+385,2018 General Election,CRAWFORD,United States Senator,Republican,17087,0.5942890929326655,42039
+386,2018 General Election,CRAWFORD,United States Senator,Green,194,0.006747356705620478,42039
+387,2018 General Election,CRAWFORD,United States Senator,Libertarian,320,0.011129660545353366,42039
+388,2018 General Election,CRAWFORD,Governor,Democratic,11570,0.39650445510623716,42039
+389,2018 General Election,CRAWFORD,Governor,Republican,17076,0.585195339273475,42039
+390,2018 General Election,CRAWFORD,Governor,Green,202,0.006922549691569568,42039
+391,2018 General Election,CRAWFORD,Governor,Libertarian,332,0.0113776559287183,42039
+392,2018 General Election,CRAWFORD,Representative in Congress,Democratic,11293,0.38695860745614036,42039
+393,2018 General Election,CRAWFORD,Representative in Congress,Republican,17547,0.6012541118421053,42039
+394,2018 General Election,CRAWFORD,Representative in Congress,Libertarian,344,0.011787280701754386,42039
+395,2018 General Election,CRAWFORD,Senator in the General Assembly,Democratic,8781,0.30175257731958766,42039
+396,2018 General Election,CRAWFORD,Senator in the General Assembly,Republican,20319,0.6982474226804124,42039
+397,2018 General Election,CRAWFORD,Representative in the General Assembly,Republican,12483,0.550833995234313,42039
+398,2018 General Election,CRAWFORD,Representative in the General Assembly,Republican,6124,0.27023210661018443,42039
+399,2018 General Election,CRAWFORD,Representative in the General Assembly,Republican,4055,0.1789338981555026,42039
+400,2018 General Election,CUMBERLAND,United States Senator,Democratic,47624,0.4569432850714334,42041
+401,2018 General Election,CUMBERLAND,United States Senator,Republican,54469,0.5226197672298821,42041
+402,2018 General Election,CUMBERLAND,United States Senator,Green,735,0.007052186177715092,42041
+403,2018 General Election,CUMBERLAND,United States Senator,Libertarian,1395,0.01338476152096946,42041
+404,2018 General Election,CUMBERLAND,Governor,Democratic,52744,0.5053414197158269,42041
+405,2018 General Election,CUMBERLAND,Governor,Republican,49457,0.4738486006917498,42041
+406,2018 General Election,CUMBERLAND,Governor,Green,670,0.006419284680904065,42041
+407,2018 General Election,CUMBERLAND,Governor,Libertarian,1502,0.014390694911519262,42041
+408,2018 General Election,CUMBERLAND,Representative in Congress,Democratic,41459,0.3972119760479042,42041
+409,2018 General Election,CUMBERLAND,Representative in Congress,Republican,46791,0.44829700598802397,42041
+410,2018 General Election,CUMBERLAND,Representative in Congress,Democratic,5155,0.04938922155688623,42041
+411,2018 General Election,CUMBERLAND,Representative in Congress,Republican,10970,0.10510179640718563,42041
+412,2018 General Election,CUMBERLAND,Senator in the General Assembly,Democratic,4268,0.33100666976888476,42041
+413,2018 General Election,CUMBERLAND,Senator in the General Assembly,Republican,8626,0.6689933302311153,42041
+414,2018 General Election,CUMBERLAND,Representative in the General Assembly,Democratic,2050,0.01968806423110906,42041
+415,2018 General Election,CUMBERLAND,Representative in the General Assembly,Republican,3212,0.030847835273327955,42041
+416,2018 General Election,CUMBERLAND,Representative in the General Assembly,Democratic,14203,0.13640467135338635,42041
+417,2018 General Election,CUMBERLAND,Representative in the General Assembly,Republican,18541,0.17806653605316738,42041
+418,2018 General Election,CUMBERLAND,Representative in the General Assembly,Democratic,11636,0.11175137336252929,42041
+419,2018 General Election,CUMBERLAND,Representative in the General Assembly,Republican,16134,0.15494986746571396,42041
+420,2018 General Election,CUMBERLAND,Representative in the General Assembly,Democratic,968,0.009296607890591986,42041
+421,2018 General Election,CUMBERLAND,Representative in the General Assembly,Republican,1990,0.0191118282048327,42041
+422,2018 General Election,CUMBERLAND,Representative in the General Assembly,Democratic,3602,0.03459336944412431,42041
+423,2018 General Election,CUMBERLAND,Representative in the General Assembly,Republican,6756,0.06488417655871845,42041
+424,2018 General Election,CUMBERLAND,Representative in the General Assembly,Democratic,9866,0.09475241058737659,42041
+425,2018 General Election,CUMBERLAND,Representative in the General Assembly,Republican,14733,0.14149475625216087,42041
+426,2018 General Election,CUMBERLAND,Representative in the General Assembly,Libertarian,433,0.004158503322961085,42041
+427,2018 General Election,DAUPHIN,United States Senator,Democratic,59358,0.5472649659330832,42043
+428,2018 General Election,DAUPHIN,United States Senator,Republican,47086,0.4341203912855075,42043
+429,2018 General Election,DAUPHIN,United States Senator,Green,782,0.007209831924250666,42043
+430,2018 General Election,DAUPHIN,United States Senator,Libertarian,1237,0.011404810857158663,42043
+431,2018 General Election,DAUPHIN,Governor,Democratic,63930,0.5899669625883612,42043
+432,2018 General Election,DAUPHIN,Governor,Republican,42371,0.3910134549011646,42043
+433,2018 General Election,DAUPHIN,Governor,Green,701,0.006469057418652295,42043
+434,2018 General Election,DAUPHIN,Governor,Libertarian,1360,0.012550525091821856,42043
+435,2018 General Election,DAUPHIN,Representative in Congress,Democratic,58438,0.5404570551296161,42043
+436,2018 General Election,DAUPHIN,Representative in Congress,Republican,49689,0.4595429448703839,42043
+437,2018 General Election,DAUPHIN,Senator in the General Assembly,Democratic,11080,0.48029823572759983,42043
+438,2018 General Election,DAUPHIN,Senator in the General Assembly,Republican,11989,0.5197017642724002,42043
+439,2018 General Election,DAUPHIN,Representative in the General Assembly,Democratic,516,0.004804424539808754,42043
+440,2018 General Election,DAUPHIN,Representative in the General Assembly,Republican,1538,0.01432016461671679,42043
+441,2018 General Election,DAUPHIN,Representative in the General Assembly,Libertarian,45,0.0004189905121926239,42043
+442,2018 General Election,DAUPHIN,Representative in the General Assembly,Democratic,15392,0.14331337697041927,42043
+443,2018 General Election,DAUPHIN,Representative in the General Assembly,Republican,2933,0.02730887049468813,42043
+444,2018 General Election,DAUPHIN,Representative in the General Assembly,Democratic,12436,0.11579035576949935,42043
+445,2018 General Election,DAUPHIN,Representative in the General Assembly,Republican,13640,0.1270006796957198,42043
+446,2018 General Election,DAUPHIN,Representative in the General Assembly,Democratic,15259,0.14207502723438328,42043
+447,2018 General Election,DAUPHIN,Representative in the General Assembly,Republican,15771,0.14684220817310825,42043
+448,2018 General Election,DAUPHIN,Representative in the General Assembly,Democratic,12048,0.11217772646437184,42043
+449,2018 General Election,DAUPHIN,Representative in the General Assembly,Republican,14494,0.1349521885271087,42043
+450,2018 General Election,DAUPHIN,Representative in the General Assembly,Republican,3329,0.030995987001983222,42043
+451,2018 General Election,DELAWARE,United States Senator,Democratic,155427,0.6489672190698083,42045
+452,2018 General Election,DELAWARE,United States Senator,Republican,80829,0.33749201458043665,42045
+453,2018 General Election,DELAWARE,United States Senator,Green,1254,0.005235930003883106,42045
+454,2018 General Election,DELAWARE,United States Senator,Libertarian,1989,0.008304836345872008,42045
+455,2018 General Election,DELAWARE,Governor,Democratic,159490,0.6662656289816568,42045
+456,2018 General Election,DELAWARE,Governor,Republican,77162,0.322342394278529,42045
+457,2018 General Election,DELAWARE,Governor,Green,1029,0.004298622686200544,42045
+458,2018 General Election,DELAWARE,Governor,Libertarian,1698,0.007093354053613726,42045
+459,2018 General Election,DELAWARE,Representative in Congress,Democratic,146991,0.6180377152227384,42045
+460,2018 General Election,DELAWARE,Representative in Congress,Republican,90844,0.3819622847772616,42045
+461,2018 General Election,DELAWARE,Senator in the General Assembly,Democratic,22017,0.17371921823590214,42045
+462,2018 General Election,DELAWARE,Senator in the General Assembly,Democratic,56906,0.44900149125367883,42045
+463,2018 General Election,DELAWARE,Senator in the General Assembly,Republican,47816,0.37727929051041903,42045
+464,2018 General Election,DELAWARE,Representative in the General Assembly,Democratic,13379,0.056188552301676964,42045
+465,2018 General Election,DELAWARE,Representative in the General Assembly,Republican,4113,0.01727360158582834,42045
+466,2018 General Election,DELAWARE,Representative in the General Assembly,Democratic,8232,0.03457240171518086,42045
+467,2018 General Election,DELAWARE,Representative in the General Assembly,Republican,10644,0.04470221621190295,42045
+468,2018 General Election,DELAWARE,Representative in the General Assembly,Democratic,17573,0.07380233422508178,42045
+469,2018 General Election,DELAWARE,Representative in the General Assembly,Republican,12467,0.05235837368600095,42045
+470,2018 General Election,DELAWARE,Representative in the General Assembly,Democratic,12826,0.05386608654019798,42045
+471,2018 General Election,DELAWARE,Representative in the General Assembly,Republican,12056,0.050632273454594326,42045
+472,2018 General Election,DELAWARE,Representative in the General Assembly,Democratic,15000,0.06299635881046076,42045
+473,2018 General Election,DELAWARE,Representative in the General Assembly,Republican,13077,0.05492022561095969,42045
+474,2018 General Election,DELAWARE,Representative in the General Assembly,Democratic,17490,0.07345375437299724,42045
+475,2018 General Election,DELAWARE,Representative in the General Assembly,Republican,3565,0.014972134610619506,42045
+476,2018 General Election,DELAWARE,Representative in the General Assembly,Democratic,15577,0.06541961874603648,42045
+477,2018 General Election,DELAWARE,Representative in the General Assembly,Republican,15414,0.06473505831362947,42045
+478,2018 General Election,DELAWARE,Representative in the General Assembly,Democratic,17904,0.07519245387616595,42045
+479,2018 General Election,DELAWARE,Representative in the General Assembly,Republican,7575,0.03181316119928268,42045
+480,2018 General Election,DELAWARE,Representative in the General Assembly,Democratic,15637,0.06567160418127832,42045
+481,2018 General Election,DELAWARE,Representative in the General Assembly,Republican,16422,0.06896841362569243,42045
+482,2018 General Election,DELAWARE,Representative in the General Assembly,Democratic,4015,0.01686202537493333,42045
+483,2018 General Election,DELAWARE,Representative in the General Assembly,Democratic,5143,0.021599351557479978,42045
+484,2018 General Election,ELK,United States Senator,Democratic,4363,0.3959883826465783,42047
+485,2018 General Election,ELK,United States Senator,Republican,6487,0.588763840987475,42047
+486,2018 General Election,ELK,United States Senator,Green,60,0.0054456344164095115,42047
+487,2018 General Election,ELK,United States Senator,Libertarian,108,0.009802141949537121,42047
+488,2018 General Election,ELK,Governor,Democratic,4066,0.36829710144927535,42047
+489,2018 General Election,ELK,Governor,Republican,6800,0.6159420289855072,42047
+490,2018 General Election,ELK,Governor,Green,73,0.00661231884057971,42047
+491,2018 General Election,ELK,Governor,Libertarian,101,0.009148550724637682,42047
+492,2018 General Election,ELK,Representative in Congress,Democratic,3482,0.31562726613488035,42047
+493,2018 General Election,ELK,Representative in Congress,Republican,7550,0.6843727338651197,42047
+494,2018 General Election,ELK,Representative in the General Assembly,Democratic / Republican,10478,1.0,42047
+495,2018 General Election,ERIE,United States Senator,Democratic,58664,0.58365751012327,42049
+496,2018 General Election,ERIE,United States Senator,Republican,40218,0.400135308573191,42049
+497,2018 General Election,ERIE,United States Senator,Green,608,0.006049089154420909,42049
+498,2018 General Election,ERIE,United States Senator,Libertarian,1021,0.010158092149118007,42049
+499,2018 General Election,ERIE,Governor,Democratic,60571,0.5975592912671165,42049
+500,2018 General Election,ERIE,Governor,Republican,39267,0.38738605422043326,42049
+501,2018 General Election,ERIE,Governor,Green,601,0.005929126711653052,42049
+502,2018 General Election,ERIE,Governor,Libertarian,925,0.009125527800797128,42049
+503,2018 General Election,ERIE,Representative in Congress,Democratic,60147,0.5930428609459579,42049
+504,2018 General Election,ERIE,Representative in Congress,Republican,40334,0.3976888415614123,42049
+505,2018 General Election,ERIE,Representative in Congress,Libertarian,940,0.009268297492629732,42049
+506,2018 General Election,ERIE,Senator in the General Assembly,Democratic,4538,0.3754446926449905,42049
+507,2018 General Election,ERIE,Senator in the General Assembly,Republican,7549,0.6245553073550095,42049
+508,2018 General Election,ERIE,Representative in the General Assembly,Democratic,12977,0.16025340215861097,42049
+509,2018 General Election,ERIE,Representative in the General Assembly,Democratic,13699,0.169169404035664,42049
+510,2018 General Election,ERIE,Representative in the General Assembly,Republican,7399,0.09137049569018746,42049
+511,2018 General Election,ERIE,Representative in the General Assembly,Democratic,20157,0.24891945960631282,42049
+512,2018 General Election,ERIE,Representative in the General Assembly,Republican,17362,0.2144039121736768,42049
+513,2018 General Election,ERIE,Representative in the General Assembly,Republican,4637,0.057262466348884884,42049
+514,2018 General Election,ERIE,Representative in the General Assembly,Republican,4747,0.05862085998666305,42049
+515,2018 General Election,FAYETTE,United States Senator,Democratic,19523,0.48047153791253416,42051
+516,2018 General Election,FAYETTE,United States Senator,Republican,20484,0.5041222651539389,42051
+517,2018 General Election,FAYETTE,United States Senator,Green,200,0.004922107646494229,42051
+518,2018 General Election,FAYETTE,United States Senator,Libertarian,426,0.010484089287032707,42051
+519,2018 General Election,FAYETTE,Governor,Democratic,19759,0.4837319754204715,42051
+520,2018 General Election,FAYETTE,Governor,Republican,20442,0.5004529096384067,42051
+521,2018 General Election,FAYETTE,Governor,Green,263,0.0064386613459984825,42051
+522,2018 General Election,FAYETTE,Governor,Libertarian,383,0.009376453595123265,42051
+523,2018 General Election,FAYETTE,Representative in Congress,Democratic,17076,0.42452267303102625,42051
+524,2018 General Election,FAYETTE,Representative in Congress,Republican,23148,0.5754773269689738,42051
+525,2018 General Election,FAYETTE,Senator in the General Assembly,Democratic,16142,0.3962685651159936,42051
+526,2018 General Election,FAYETTE,Senator in the General Assembly,Republican,24593,0.6037314348840064,42051
+527,2018 General Election,FAYETTE,Representative in the General Assembly,Democratic,1501,0.036740588436872765,42051
+528,2018 General Election,FAYETTE,Representative in the General Assembly,Republican,2104,0.05150046507073971,42051
+529,2018 General Election,FAYETTE,Representative in the General Assembly,Democratic,2893,0.0708131394722671,42051
+530,2018 General Election,FAYETTE,Representative in the General Assembly,Republican,1728,0.04229695990600676,42051
+531,2018 General Election,FAYETTE,Representative in the General Assembly,Democratic,7576,0.18544083810642778,42051
+532,2018 General Election,FAYETTE,Representative in the General Assembly,Republican,7947,0.19452195623439567,42051
+533,2018 General Election,FAYETTE,Representative in the General Assembly,Democratic,6692,0.16380281000636412,42051
+534,2018 General Election,FAYETTE,Representative in the General Assembly,Republican,10413,0.25488324276692614,42051
+535,2018 General Election,FOREST,United States Senator,Democratic,692,0.35836354220611083,42053
+536,2018 General Election,FOREST,United States Senator,Republican,1201,0.6219575349559814,42053
+537,2018 General Election,FOREST,United States Senator,Green,14,0.0072501294665976174,42053
+538,2018 General Election,FOREST,United States Senator,Libertarian,24,0.012428793371310202,42053
+539,2018 General Election,FOREST,Governor,Democratic,745,0.38461538461538464,42053
+540,2018 General Election,FOREST,Governor,Republican,1159,0.5983479607640682,42053
+541,2018 General Election,FOREST,Governor,Green,14,0.007227671657201859,42053
+542,2018 General Election,FOREST,Governor,Libertarian,19,0.00980898296334538,42053
+543,2018 General Election,FOREST,Representative in Congress,Democratic,563,0.29216398546964195,42053
+544,2018 General Election,FOREST,Representative in Congress,Republican,1364,0.707836014530358,42053
+545,2018 General Election,FOREST,Representative in the General Assembly,Democratic,167,0.09994015559545183,42053
+546,2018 General Election,FOREST,Representative in the General Assembly,Republican,519,0.3105924596050269,42053
+547,2018 General Election,FOREST,Representative in the General Assembly,Republican,985,0.5894673847995212,42053
+548,2018 General Election,FRANKLIN,United States Senator,Democratic,17335,0.3155892151686723,42055
+549,2018 General Election,FRANKLIN,United States Senator,Republican,36690,0.6679531759180033,42055
+550,2018 General Election,FRANKLIN,United States Senator,Green,333,0.006062371424930365,42055
+551,2018 General Election,FRANKLIN,United States Senator,Libertarian,571,0.010395237488394108,42055
+552,2018 General Election,FRANKLIN,Governor,Democratic,18402,0.335588583933619,42055
+553,2018 General Election,FRANKLIN,Governor,Republican,35594,0.6491109692714507,42055
+554,2018 General Election,FRANKLIN,Governor,Green,315,0.005744506246010759,42055
+555,2018 General Election,FRANKLIN,Governor,Libertarian,524,0.009555940548919485,42055
+556,2018 General Election,FRANKLIN,Representative in Congress,Democratic,15583,0.28513659402389707,42055
+557,2018 General Election,FRANKLIN,Representative in Congress,Republican,39068,0.7148634059761029,42055
+558,2018 General Election,FRANKLIN,Senator in the General Assembly,Democratic,3418,0.21934159019444266,42055
+559,2018 General Election,FRANKLIN,Senator in the General Assembly,Republican,12165,0.7806584098055573,42055
+560,2018 General Election,FRANKLIN,Representative in the General Assembly,Democratic,1044,0.023264623955431756,42055
+561,2018 General Election,FRANKLIN,Representative in the General Assembly,Republican,3641,0.08113649025069637,42055
+562,2018 General Election,FRANKLIN,Representative in the General Assembly,Republican,2631,0.05862952646239554,42055
+563,2018 General Election,FRANKLIN,Representative in the General Assembly,No Affiliation,425,0.00947075208913649,42055
+564,2018 General Election,FRANKLIN,Representative in the General Assembly,Republican,18060,0.40245125348189414,42055
+565,2018 General Election,FRANKLIN,Representative in the General Assembly,Republican,19074,0.42504735376044567,42055
+566,2018 General Election,FULTON,United States Senator,Democratic,1061,0.20003770739064858,42057
+567,2018 General Election,FULTON,United States Senator,Republican,4173,0.7867647058823529,42057
+568,2018 General Election,FULTON,United States Senator,Green,27,0.005090497737556561,42057
+569,2018 General Election,FULTON,United States Senator,Libertarian,43,0.008107088989441931,42057
+570,2018 General Election,FULTON,Governor,Democratic,1037,0.19580815709969787,42057
+571,2018 General Election,FULTON,Governor,Republican,4202,0.793429003021148,42057
+572,2018 General Election,FULTON,Governor,Green,18,0.0033987915407854984,42057
+573,2018 General Election,FULTON,Governor,Libertarian,39,0.00736404833836858,42057
+574,2018 General Election,FULTON,Representative in Congress,Democratic,888,0.16834123222748815,42057
+575,2018 General Election,FULTON,Representative in Congress,Republican,4387,0.8316587677725118,42057
+576,2018 General Election,FULTON,Senator in the General Assembly,Democratic,1034,0.19542619542619544,42057
+577,2018 General Election,FULTON,Senator in the General Assembly,Republican,4257,0.8045738045738046,42057
+578,2018 General Election,FULTON,Representative in the General Assembly,Democratic,879,0.16566151526573691,42057
+579,2018 General Election,FULTON,Representative in the General Assembly,Republican,4427,0.8343384847342631,42057
+580,2018 General Election,GREENE,United States Senator,Democratic,5523,0.4659186772397503,42059
+581,2018 General Election,GREENE,United States Senator,Republican,6154,0.5191496541251898,42059
+582,2018 General Election,GREENE,United States Senator,Green,69,0.005820819976379281,42059
+583,2018 General Election,GREENE,United States Senator,Libertarian,108,0.009110848658680615,42059
+584,2018 General Election,GREENE,Governor,Democratic,5543,0.46721173297370194,42059
+585,2018 General Election,GREENE,Governor,Republican,6109,0.5149190829399866,42059
+586,2018 General Election,GREENE,Governor,Green,103,0.008681726230613621,42059
+587,2018 General Election,GREENE,Governor,Libertarian,109,0.00918745785569791,42059
+588,2018 General Election,GREENE,Representative in Congress,Democratic,4718,0.40466592332103957,42059
+589,2018 General Election,GREENE,Representative in Congress,Republican,6941,0.5953340766789604,42059
+590,2018 General Election,GREENE,Senator in the General Assembly,Democratic,4273,0.36328855636796464,42059
+591,2018 General Election,GREENE,Senator in the General Assembly,Republican,7489,0.6367114436320354,42059
+592,2018 General Election,GREENE,Representative in the General Assembly,Democratic,6395,0.5353704478861449,42059
+593,2018 General Election,GREENE,Representative in the General Assembly,Republican,5550,0.46462955211385515,42059
+594,2018 General Election,HUNTINGDON,United States Senator,Democratic,5122,0.32221942627075995,42061
+595,2018 General Election,HUNTINGDON,United States Senator,Republican,10480,0.6592853548062405,42061
+596,2018 General Election,HUNTINGDON,United States Senator,Green,108,0.0067941620533467535,42061
+597,2018 General Election,HUNTINGDON,United States Senator,Libertarian,186,0.011701056869652744,42061
+598,2018 General Election,HUNTINGDON,Governor,Democratic,5032,0.31673695474287156,42061
+599,2018 General Election,HUNTINGDON,Governor,Republican,10577,0.6657644615094102,42061
+600,2018 General Election,HUNTINGDON,Governor,Green,101,0.006357399131365267,42061
+601,2018 General Election,HUNTINGDON,Governor,Libertarian,177,0.011141184616352993,42061
+602,2018 General Election,HUNTINGDON,Representative in Congress,Democratic,4243,0.26852730839820266,42061
+603,2018 General Election,HUNTINGDON,Representative in Congress,Republican,11558,0.7314726916017974,42061
+604,2018 General Election,HUNTINGDON,Senator in the General Assembly,Democratic,2427,0.1534134007585335,42061
+605,2018 General Election,HUNTINGDON,Senator in the General Assembly,Republican,7590,0.4797724399494311,42061
+606,2018 General Election,HUNTINGDON,Senator in the General Assembly,Democratic,2226,0.1407079646017699,42061
+607,2018 General Election,HUNTINGDON,Senator in the General Assembly,Republican,3577,0.2261061946902655,42061
+608,2018 General Election,HUNTINGDON,Representative in the General Assembly,Democratic,4304,0.27156287462931417,42061
+609,2018 General Election,HUNTINGDON,Representative in the General Assembly,Republican,11184,0.7056596630702252,42061
+610,2018 General Election,HUNTINGDON,Representative in the General Assembly,Libertarian,361,0.022777462300460596,42061
+611,2018 General Election,INDIANA,United States Senator,Democratic,12593,0.42805669805227914,42063
+612,2018 General Election,INDIANA,United States Senator,Republican,16300,0.5540637003297189,42063
+613,2018 General Election,INDIANA,United States Senator,Green,188,0.006390427954723138,42063
+614,2018 General Election,INDIANA,United States Senator,Libertarian,338,0.011489173663278833,42063
+615,2018 General Election,INDIANA,Governor,Democratic,12705,0.4325548141086749,42063
+616,2018 General Election,INDIANA,Governor,Republican,16165,0.5503540787144219,42063
+617,2018 General Election,INDIANA,Governor,Green,213,0.007251804439602342,42063
+618,2018 General Election,INDIANA,Governor,Libertarian,289,0.009839302737300831,42063
+619,2018 General Election,INDIANA,Representative in Congress,Democratic,11203,0.38312643206456687,42063
+620,2018 General Election,INDIANA,Representative in Congress,Republican,18038,0.6168735679354331,42063
+621,2018 General Election,INDIANA,Representative in the General Assembly,Democratic,182,0.006356524168762224,42063
+622,2018 General Election,INDIANA,Representative in the General Assembly,Republican,1471,0.05137608270466611,42063
+623,2018 General Election,INDIANA,Representative in the General Assembly,Democratic,8851,0.3091296451522772,42063
+624,2018 General Election,INDIANA,Representative in the General Assembly,Republican,12312,0.4300083822296731,42063
+625,2018 General Election,INDIANA,Representative in the General Assembly,Democratic,1181,0.041247555183012014,42063
+626,2018 General Election,INDIANA,Representative in the General Assembly,Republican,4635,0.16188181056160938,42063
+627,2018 General Election,JEFFERSON,United States Senator,Democratic,4265,0.2837469230257468,42065
+628,2018 General Election,JEFFERSON,United States Senator,Republican,10507,0.699022021156277,42065
+629,2018 General Election,JEFFERSON,United States Senator,Green,94,0.006253742265983634,42065
+630,2018 General Election,JEFFERSON,United States Senator,Libertarian,165,0.01097731355199255,42065
+631,2018 General Election,JEFFERSON,Governor,Democratic,4107,0.2730718085106383,42065
+632,2018 General Election,JEFFERSON,Governor,Republican,10688,0.7106382978723405,42065
+633,2018 General Election,JEFFERSON,Governor,Green,82,0.005452127659574468,42065
+634,2018 General Election,JEFFERSON,Governor,Libertarian,163,0.010837765957446809,42065
+635,2018 General Election,JEFFERSON,Representative in Congress,Democratic,3217,0.2140813202901444,42065
+636,2018 General Election,JEFFERSON,Representative in Congress,Republican,11810,0.7859186797098556,42065
+637,2018 General Election,JEFFERSON,Representative in the General Assembly,Democratic,3060,0.20371479928100658,42065
+638,2018 General Election,JEFFERSON,Representative in the General Assembly,Republican,11961,0.7962852007189934,42065
+639,2018 General Election,JUNIATA,United States Senator,Democratic,2406,0.28463267479001536,42067
+640,2018 General Election,JUNIATA,United States Senator,Republican,5844,0.6913521826570448,42067
+641,2018 General Election,JUNIATA,United States Senator,Green,87,0.010292203951259907,42067
+642,2018 General Election,JUNIATA,United States Senator,Libertarian,116,0.013722938601679877,42067
+643,2018 General Election,JUNIATA,Governor,Democratic,2543,0.29995281906109933,42067
+644,2018 General Election,JUNIATA,Governor,Republican,5772,0.6808209483368719,42067
+645,2018 General Election,JUNIATA,Governor,Green,62,0.007313045529606039,42067
+646,2018 General Election,JUNIATA,Governor,Libertarian,101,0.011913187072422742,42067
+647,2018 General Election,JUNIATA,Representative in Congress,Democratic,1808,0.2146758489669912,42067
+648,2018 General Election,JUNIATA,Representative in Congress,Republican,6614,0.7853241510330088,42067
+649,2018 General Election,JUNIATA,Senator in the General Assembly,Democratic,1896,0.22477771191464138,42067
+650,2018 General Election,JUNIATA,Senator in the General Assembly,Republican,6539,0.7752222880853586,42067
+651,2018 General Election,JUNIATA,Representative in the General Assembly,Republican,6385,0.8119277721261444,42067
+652,2018 General Election,JUNIATA,Representative in the General Assembly,No Affiliation,1479,0.18807222787385555,42067
+653,2018 General Election,LACKAWANNA,United States Senator,Democratic,51289,0.610394401732797,42069
+654,2018 General Election,LACKAWANNA,United States Senator,Republican,31853,0.3790850451050865,42069
+655,2018 General Election,LACKAWANNA,United States Senator,Green,399,0.004748530216837646,42069
+656,2018 General Election,LACKAWANNA,United States Senator,Libertarian,485,0.005772022945278842,42069
+657,2018 General Election,LACKAWANNA,Governor,Democratic,54101,0.6463139283452997,42069
+658,2018 General Election,LACKAWANNA,Governor,Republican,28554,0.341118424982379,42069
+659,2018 General Election,LACKAWANNA,Governor,Green,433,0.005172805141744418,42069
+660,2018 General Election,LACKAWANNA,Governor,Libertarian,619,0.007394841530576893,42069
+661,2018 General Election,LACKAWANNA,Representative in Congress,Democratic,53308,0.6376478750254183,42069
+662,2018 General Election,LACKAWANNA,Representative in Congress,Republican,30293,0.36235212497458164,42069
+663,2018 General Election,LACKAWANNA,Senator in the General Assembly,Democratic,51343,0.6186648993854681,42069
+664,2018 General Election,LACKAWANNA,Senator in the General Assembly,Republican,31647,0.38133510061453185,42069
+665,2018 General Election,LACKAWANNA,Representative in the General Assembly,Democratic,17022,0.27050391723743383,42069
+666,2018 General Election,LACKAWANNA,Representative in the General Assembly,Republican,7404,0.11766014588332513,42069
+667,2018 General Election,LACKAWANNA,Representative in the General Assembly,Democratic,16621,0.264131453906908,42069
+668,2018 General Election,LACKAWANNA,Representative in the General Assembly,Democratic,15776,0.2507031957665231,42069
+669,2018 General Election,LACKAWANNA,Representative in the General Assembly,Republican,1189,0.018894909975050455,42069
+670,2018 General Election,LACKAWANNA,Representative in the General Assembly,Libertarian,365,0.005800371859456195,42069
+671,2018 General Election,LACKAWANNA,Representative in the General Assembly,Democratic,4550,0.07230600537130326,42069
+672,2018 General Election,LANCASTER,United States Senator,Democratic,89936,0.4465297327355507,42071
+673,2018 General Election,LANCASTER,United States Senator,Republican,107121,0.5318527786466479,42071
+674,2018 General Election,LANCASTER,United States Senator,Green,1396,0.0069311010818674254,42071
+675,2018 General Election,LANCASTER,United States Senator,Libertarian,2958,0.014686387535933985,42071
+676,2018 General Election,LANCASTER,Governor,Democratic,95574,0.4744916196679641,42071
+677,2018 General Election,LANCASTER,Governor,Republican,101922,0.5060072285328462,42071
+678,2018 General Election,LANCASTER,Governor,Green,1110,0.005510763364842322,42071
+679,2018 General Election,LANCASTER,Governor,Libertarian,2818,0.013990388434347446,42071
+680,2018 General Election,LANCASTER,Representative in Congress,Democratic,88560,0.43841150087622893,42071
+681,2018 General Election,LANCASTER,Representative in Congress,Republican,113442,0.5615884991237711,42071
+682,2018 General Election,LANCASTER,Senator in the General Assembly,Democratic,35153,0.3352918172887079,42071
+683,2018 General Election,LANCASTER,Senator in the General Assembly,Republican,69690,0.6647081827112922,42071
+684,2018 General Election,LANCASTER,Representative in the General Assembly,Democratic,345,0.0017429171886998343,42071
+685,2018 General Election,LANCASTER,Representative in the General Assembly,Republican,786,0.003970820029907449,42071
+686,2018 General Election,LANCASTER,Representative in the General Assembly,Libertarian,7,3.536353716202562e-05,42071
+687,2018 General Election,LANCASTER,Representative in the General Assembly,Democratic,6944,0.035080628864729416,42071
+688,2018 General Election,LANCASTER,Representative in the General Assembly,Republican,18490,0.09341025744655054,42071
+689,2018 General Election,LANCASTER,Representative in the General Assembly,Democratic,13122,0.06629147637715718,42071
+690,2018 General Election,LANCASTER,Representative in the General Assembly,Republican,16918,0.08546861738673564,42071
+691,2018 General Election,LANCASTER,Representative in the General Assembly,Democratic,9432,0.04764984035888938,42071
+692,2018 General Election,LANCASTER,Representative in the General Assembly,Republican,15665,0.07913854423473306,42071
+693,2018 General Election,LANCASTER,Representative in the General Assembly,Democratic,15230,0.07694095299680717,42071
+694,2018 General Election,LANCASTER,Representative in the General Assembly,Democratic,14096,0.07121205997655902,42071
+695,2018 General Election,LANCASTER,Representative in the General Assembly,Republican,18437,0.0931425049508952,42071
+696,2018 General Election,LANCASTER,Representative in the General Assembly,Democratic,7459,0.03768237481307845,42071
+697,2018 General Election,LANCASTER,Representative in the General Assembly,Republican,14014,0.0707978013983753,42071
+698,2018 General Election,LANCASTER,Representative in the General Assembly,Libertarian,536,0.002707836559835105,42071
+699,2018 General Election,LANCASTER,Representative in the General Assembly,Democratic,5700,0.028796023117649436,42071
+700,2018 General Election,LANCASTER,Representative in the General Assembly,Republican,14290,0.07219213514933516,42071
+701,2018 General Election,LANCASTER,Representative in the General Assembly,Democratic,5462,0.027593662854140565,42071
+702,2018 General Election,LANCASTER,Representative in the General Assembly,Republican,14097,0.07121711191043932,42071
+703,2018 General Election,LANCASTER,Representative in the General Assembly,Democratic,470,0.0023744089237360063,42071
+704,2018 General Election,LANCASTER,Representative in the General Assembly,Republican,1899,0.009593622438669522,42071
+705,2018 General Election,LANCASTER,Representative in the General Assembly,Democratic,1335,0.006744331730186315,42071
+706,2018 General Election,LANCASTER,Representative in the General Assembly,Republican,3210,0.016216707755728893,42071
+707,2018 General Election,LAWRENCE,United States Senator,Democratic,14289,0.44530665669409125,42073
+708,2018 General Election,LAWRENCE,United States Senator,Republican,17352,0.5407629020194465,42073
+709,2018 General Election,LAWRENCE,United States Senator,Green,149,0.004643480428820743,42073
+710,2018 General Election,LAWRENCE,United States Senator,Libertarian,298,0.009286960857641486,42073
+711,2018 General Election,LAWRENCE,Governor,Democratic,15010,0.4662649105367793,42073
+712,2018 General Election,LAWRENCE,Governor,Republican,16691,0.5184828528827038,42073
+713,2018 General Election,LAWRENCE,Governor,Green,201,0.006243787276341948,42073
+714,2018 General Election,LAWRENCE,Governor,Libertarian,290,0.00900844930417495,42073
+715,2018 General Election,LAWRENCE,Representative in Congress,Democratic,13518,0.42110837668608453,42073
+716,2018 General Election,LAWRENCE,Representative in Congress,Republican,18221,0.5676147160524594,42073
+717,2018 General Election,LAWRENCE,Representative in Congress,Libertarian,362,0.01127690726145603,42073
+718,2018 General Election,LAWRENCE,Representative in the General Assembly,Democratic,11946,0.3773811404201548,42073
+719,2018 General Election,LAWRENCE,Representative in the General Assembly,Republican,9063,0.2863054809666719,42073
+720,2018 General Election,LAWRENCE,Representative in the General Assembly,Democratic / Republican,7758,0.24507976622966357,42073
+721,2018 General Election,LAWRENCE,Representative in the General Assembly,Green,1538,0.04858632127625968,42073
+722,2018 General Election,LAWRENCE,Representative in the General Assembly,Republican,1350,0.04264729110725004,42073
+723,2018 General Election,LEBANON,United States Senator,Democratic,18293,0.3732351260915694,42075
+724,2018 General Election,LEBANON,United States Senator,Republican,29781,0.6076267036644087,42075
+725,2018 General Election,LEBANON,United States Senator,Green,341,0.006957479800865095,42075
+726,2018 General Election,LEBANON,United States Senator,Libertarian,597,0.012180690443156778,42075
+727,2018 General Election,LEBANON,Governor,Democratic,20111,0.41040344468705997,42075
+728,2018 General Election,LEBANON,Governor,Republican,28042,0.5722506785298859,42075
+729,2018 General Election,LEBANON,Governor,Green,253,0.005162949207191397,42075
+730,2018 General Election,LEBANON,Governor,Libertarian,597,0.012182927575862703,42075
+731,2018 General Election,LEBANON,Representative in Congress,Democratic,17452,0.35754968244212254,42075
+732,2018 General Election,LEBANON,Representative in Congress,Republican,31358,0.6424503175578775,42075
+733,2018 General Election,LEBANON,Senator in the General Assembly,Democratic,14784,0.30252307188606276,42075
+734,2018 General Election,LEBANON,Senator in the General Assembly,Republican,34085,0.6974769281139372,42075
+735,2018 General Election,LEBANON,Representative in the General Assembly,Democratic,8520,0.19329370661100775,42075
+736,2018 General Election,LEBANON,Representative in the General Assembly,Republican,15458,0.3506964925813331,42075
+737,2018 General Election,LEBANON,Representative in the General Assembly,Republican,17955,0.407346068333409,42075
+738,2018 General Election,LEBANON,Representative in the General Assembly,Democratic,406,0.009210944235219384,42075
+739,2018 General Election,LEBANON,Representative in the General Assembly,Republican,1739,0.03945278823903081,42075
+740,2018 General Election,LEHIGH,United States Senator,Democratic,70623,0.572917765212665,42077
+741,2018 General Election,LEHIGH,United States Senator,Republican,50486,0.40955958107877893,42077
+742,2018 General Election,LEHIGH,United States Senator,Green,782,0.006343849629671694,42077
+743,2018 General Election,LEHIGH,United States Senator,Libertarian,1378,0.01117880407888439,42077
+744,2018 General Election,LEHIGH,Governor,Democratic,74254,0.6009647291150715,42077
+745,2018 General Election,LEHIGH,Governor,Republican,47083,0.3810599070881691,42077
+746,2018 General Election,LEHIGH,Governor,Green,774,0.006264264555917059,42077
+747,2018 General Election,LEHIGH,Governor,Libertarian,1447,0.011711099240842357,42077
+748,2018 General Election,LEHIGH,Representative in Congress,Democratic,67058,0.543543105404792,42077
+749,2018 General Election,LEHIGH,Representative in Congress,Republican,52216,0.42324028142528286,42077
+750,2018 General Election,LEHIGH,Representative in Congress,Libertarian,4098,0.03321661316992511,42077
+751,2018 General Election,LEHIGH,Senator in the General Assembly,Democratic,44256,0.3913550988645609,42077
+752,2018 General Election,LEHIGH,Senator in the General Assembly,Republican,46879,0.41455024583495453,42077
+753,2018 General Election,LEHIGH,Senator in the General Assembly,Democratic,21949,0.1940946553004846,42077
+754,2018 General Election,LEHIGH,Representative in the General Assembly,Democratic,9744,0.08831126458033117,42077
+755,2018 General Election,LEHIGH,Representative in the General Assembly,Democratic,8634,0.07825117594279345,42077
+756,2018 General Election,LEHIGH,Representative in the General Assembly,Republican,9777,0.08861034829658229,42077
+757,2018 General Election,LEHIGH,Representative in the General Assembly,Democratic,13511,0.12245212394754253,42077
+758,2018 General Election,LEHIGH,Representative in the General Assembly,Democratic,14923,0.13524928174592385,42077
+759,2018 General Election,LEHIGH,Representative in the General Assembly,Democratic,9109,0.08255616882822625,42077
+760,2018 General Election,LEHIGH,Representative in the General Assembly,Republican,11458,0.10384549153955609,42077
+761,2018 General Election,LEHIGH,Representative in the General Assembly,Democratic,4944,0.04480817858016803,42077
+762,2018 General Election,LEHIGH,Representative in the General Assembly,Republican,5732,0.05194993519852815,42077
+763,2018 General Election,LEHIGH,Representative in the General Assembly,Democratic,8737,0.0791846796632136,42077
+764,2018 General Election,LEHIGH,Representative in the General Assembly,Republican,13768,0.1247813516771346,42077
+765,2018 General Election,LUZERNE,United States Senator,Democratic,49076,0.4540206490767124,42079
+766,2018 General Election,LUZERNE,United States Senator,Republican,57965,0.5362561521666729,42079
+767,2018 General Election,LUZERNE,United States Senator,Green,495,0.004579432335417977,42079
+768,2018 General Election,LUZERNE,United States Senator,Libertarian,556,0.005143766421196758,42079
+769,2018 General Election,LUZERNE,Governor,Democratic,55654,0.5168414112053195,42079
+770,2018 General Election,LUZERNE,Governor,Republican,50642,0.47029652399216204,42079
+771,2018 General Election,LUZERNE,Governor,Green,562,0.0052191194361122205,42079
+772,2018 General Election,LUZERNE,Governor,Libertarian,823,0.00764294536640633,42079
+773,2018 General Election,LUZERNE,Representative in Congress,Democratic,46672,0.4350606374152894,42079
+774,2018 General Election,LUZERNE,Representative in Congress,Republican,41795,0.3895988888578167,42079
+775,2018 General Election,LUZERNE,Representative in Congress,Democratic,6758,0.06299579593016211,42079
+776,2018 General Election,LUZERNE,Representative in Congress,Republican,12052,0.11234467779673182,42079
+777,2018 General Election,LUZERNE,Senator in the General Assembly,Democratic,39608,0.5424935968552684,42079
+778,2018 General Election,LUZERNE,Senator in the General Assembly,Republican,23141,0.3169522400734136,42079
+779,2018 General Election,LUZERNE,Senator in the General Assembly,Green,4770,0.06533262111188724,42079
+780,2018 General Election,LUZERNE,Senator in the General Assembly,Democratic,2981,0.040829464053361825,42079
+781,2018 General Election,LUZERNE,Senator in the General Assembly,Republican,2511,0.03439207790606895,42079
+782,2018 General Election,LUZERNE,Representative in the General Assembly,Republican,14979,0.165150663182615,42079
+783,2018 General Election,LUZERNE,Representative in the General Assembly,Republican,9015,0.09939470115436774,42079
+784,2018 General Election,LUZERNE,Representative in the General Assembly,Libertarian,1621,0.017872302891983372,42079
+785,2018 General Election,LUZERNE,Representative in the General Assembly,Democratic,11360,0.12524945148237576,42079
+786,2018 General Election,LUZERNE,Representative in the General Assembly,Democratic,10707,0.11804981311811596,42079
+787,2018 General Election,LUZERNE,Representative in the General Assembly,Republican,9470,0.10441129450159319,42079
+788,2018 General Election,LUZERNE,Representative in the General Assembly,Republican,16661,0.18369552034752312,42079
+789,2018 General Election,LUZERNE,Representative in the General Assembly,Democratic,9676,0.10668254335769964,42079
+790,2018 General Election,LUZERNE,Representative in the General Assembly,Republican,7210,0.07949370996372618,42079
+791,2018 General Election,LYCOMING,United States Senator,Democratic,13829,0.3375891026266966,42081
+792,2018 General Election,LYCOMING,United States Senator,Republican,26439,0.6454203691045797,42081
+793,2018 General Election,LYCOMING,United States Senator,Green,251,0.00612733131530124,42081
+794,2018 General Election,LYCOMING,United States Senator,Libertarian,445,0.010863196953422517,42081
+795,2018 General Election,LYCOMING,Governor,Democratic,14675,0.35858277336591327,42081
+796,2018 General Election,LYCOMING,Governor,Republican,25527,0.6237507635919365,42081
+797,2018 General Election,LYCOMING,Governor,Green,272,0.006646304215027489,42081
+798,2018 General Election,LYCOMING,Governor,Libertarian,451,0.011020158827122786,42081
+799,2018 General Election,LYCOMING,Representative in Congress,Democratic,12003,0.2940974689437189,42081
+800,2018 General Election,LYCOMING,Representative in Congress,Republican,28810,0.7059025310562811,42081
+801,2018 General Election,LYCOMING,Representative in the General Assembly,Democratic,6749,0.16519802222548588,42081
+802,2018 General Election,LYCOMING,Representative in the General Assembly,Republican,13080,0.3201644881774122,42081
+803,2018 General Election,LYCOMING,Representative in the General Assembly,Democratic,4361,0.10674597346649042,42081
+804,2018 General Election,LYCOMING,Representative in the General Assembly,Republican,16664,0.4078915161306114,42081
+805,2018 General Election,McKEAN,United States Senator,Democratic,3850,0.31939605110336816,42083
+806,2018 General Election,McKEAN,United States Senator,Republican,8014,0.6648415463746474,42083
+807,2018 General Election,McKEAN,United States Senator,Green,61,0.00506056080968973,42083
+808,2018 General Election,McKEAN,United States Senator,Libertarian,129,0.010701841712294675,42083
+809,2018 General Election,McKEAN,Governor,Democratic,3772,0.3093070930709307,42083
+810,2018 General Election,McKEAN,Governor,Republican,8246,0.6761787617876178,42083
+811,2018 General Election,McKEAN,Governor,Green,76,0.006232062320623206,42083
+812,2018 General Election,McKEAN,Governor,Libertarian,101,0.008282082820828209,42083
+813,2018 General Election,McKEAN,Representative in Congress,Democratic,3374,0.27751274880736965,42083
+814,2018 General Election,McKEAN,Representative in Congress,Republican,8784,0.7224872511926304,42083
+815,2018 General Election,McKEAN,Representative in the General Assembly,Democratic,2761,0.22733635240839853,42083
+816,2018 General Election,McKEAN,Representative in the General Assembly,Republican,9384,0.7726636475916014,42083
+817,2018 General Election,MERCER,United States Senator,Democratic,17429,0.4406938228526638,42085
+818,2018 General Election,MERCER,United States Senator,Republican,21471,0.5428961541379049,42085
+819,2018 General Election,MERCER,United States Senator,Green,223,0.005638574932362386,42085
+820,2018 General Election,MERCER,United States Senator,Libertarian,426,0.010771448077068953,42085
+821,2018 General Election,MERCER,Governor,Democratic,17501,0.44235775851174075,42085
+822,2018 General Election,MERCER,Governor,Republican,21394,0.5407577787326543,42085
+823,2018 General Election,MERCER,Governor,Green,266,0.006723453732022344,42085
+824,2018 General Election,MERCER,Governor,Libertarian,402,0.01016100902358264,42085
+825,2018 General Election,MERCER,Representative in Congress,Democratic,17176,0.43361692459165385,42085
+826,2018 General Election,MERCER,Representative in Congress,Republican,21931,0.5536593370528389,42085
+827,2018 General Election,MERCER,Representative in Congress,Libertarian,504,0.01272373835550731,42085
+828,2018 General Election,MERCER,Senator in the General Assembly,Democratic,14484,0.366572180603361,42085
+829,2018 General Election,MERCER,Senator in the General Assembly,Republican,25028,0.633427819396639,42085
+830,2018 General Election,MERCER,Representative in the General Assembly,Democratic / Republican,20780,0.5462958094537042,42085
+831,2018 General Election,MERCER,Representative in the General Assembly,Democratic,3534,0.09290709290709291,42085
+832,2018 General Election,MERCER,Representative in the General Assembly,Republican,8937,0.23494926126505075,42085
+833,2018 General Election,MERCER,Representative in the General Assembly,Republican,4787,0.12584783637415217,42085
+834,2018 General Election,MIFFLIN,United States Senator,Democratic,4188,0.29093435220562697,42087
+835,2018 General Election,MIFFLIN,United States Senator,Republican,9937,0.6903091351163598,42087
+836,2018 General Election,MIFFLIN,United States Senator,Green,91,0.006321639458145189,42087
+837,2018 General Election,MIFFLIN,United States Senator,Libertarian,179,0.01243487321986801,42087
+838,2018 General Election,MIFFLIN,Governor,Democratic,4404,0.3061522419186653,42087
+839,2018 General Election,MIFFLIN,Governor,Republican,9758,0.678345498783455,42087
+840,2018 General Election,MIFFLIN,Governor,Green,85,0.005908932916232186,42087
+841,2018 General Election,MIFFLIN,Governor,Libertarian,138,0.00959332638164755,42087
+842,2018 General Election,MIFFLIN,Representative in Congress,Democratic,3346,0.23385518590998042,42087
+843,2018 General Election,MIFFLIN,Representative in Congress,Republican,10962,0.7661448140900196,42087
+844,2018 General Election,MIFFLIN,Senator in the General Assembly,Democratic,3387,0.23563378321970224,42087
+845,2018 General Election,MIFFLIN,Senator in the General Assembly,Republican,10987,0.7643662167802978,42087
+846,2018 General Election,MIFFLIN,Representative in the General Assembly,Democratic,184,0.013679280350903279,42087
+847,2018 General Election,MIFFLIN,Representative in the General Assembly,Republican,716,0.053230243104601886,42087
+848,2018 General Election,MIFFLIN,Representative in the General Assembly,Libertarian,16,0.0011895026392089807,42087
+849,2018 General Election,MIFFLIN,Representative in the General Assembly,Republican,6366,0.4732733625752732,42087
+850,2018 General Election,MIFFLIN,Representative in the General Assembly,No Affiliation,1335,0.09924912645899933,42087
+851,2018 General Election,MIFFLIN,Representative in the General Assembly,Democratic,904,0.06720689911530742,42087
+852,2018 General Election,MIFFLIN,Representative in the General Assembly,Republican,3930,0.2921715857557059,42087
+853,2018 General Election,MONROE,United States Senator,Democratic,29372,0.552884705882353,42089
+854,2018 General Election,MONROE,United States Senator,Republican,22961,0.4322070588235294,42089
+855,2018 General Election,MONROE,United States Senator,Green,347,0.006531764705882353,42089
+856,2018 General Election,MONROE,United States Senator,Libertarian,445,0.008376470588235294,42089
+857,2018 General Election,MONROE,Governor,Democratic,30774,0.5787850291517773,42089
+858,2018 General Election,MONROE,Governor,Republican,21593,0.40611246943765283,42089
+859,2018 General Election,MONROE,Governor,Green,345,0.006488621403046831,42089
+860,2018 General Election,MONROE,Governor,Libertarian,458,0.008613880007523039,42089
+861,2018 General Election,MONROE,Representative in Congress,Democratic,10914,0.20754178789434652,42089
+862,2018 General Election,MONROE,Representative in Congress,Republican,7829,0.14887709890277065,42089
+863,2018 General Election,MONROE,Representative in Congress,Libertarian,353,0.006712685644741096,42089
+864,2018 General Election,MONROE,Representative in Congress,Democratic,18335,0.3486603152870481,42089
+865,2018 General Election,MONROE,Representative in Congress,Republican,15156,0.2882081122710936,42089
+866,2018 General Election,MONROE,Senator in the General Assembly,Democratic,4637,0.08750872822661307,42089
+867,2018 General Election,MONROE,Senator in the General Assembly,Republican,2977,0.056181471626186565,42089
+868,2018 General Election,MONROE,Senator in the General Assembly,Democratic,21053,0.3973088754269754,42089
+869,2018 General Election,MONROE,Senator in the General Assembly,Republican,23852,0.45013115929721265,42089
+870,2018 General Election,MONROE,Senator in the General Assembly,Libertarian,470,0.008869765423012323,42089
+871,2018 General Election,MONROE,Representative in the General Assembly,Democratic,10886,0.20584675894410406,42089
+872,2018 General Election,MONROE,Representative in the General Assembly,Republican,7193,0.1360146736252931,42089
+873,2018 General Election,MONROE,Representative in the General Assembly,Democratic,9247,0.17485439830572574,42089
+874,2018 General Election,MONROE,Representative in the General Assembly,Republican,11181,0.2114250056727933,42089
+875,2018 General Election,MONROE,Representative in the General Assembly,Democratic,6046,0.11432569397171168,42089
+876,2018 General Election,MONROE,Representative in the General Assembly,Republican,8331,0.15753346948037214,42089
+877,2018 General Election,MONTGOMERY,United States Senator,Democratic,246779,0.6513708193770275,42091
+878,2018 General Election,MONTGOMERY,United States Senator,Republican,126373,0.3335603295139906,42091
+879,2018 General Election,MONTGOMERY,United States Senator,Green,2291,0.006047072673091187,42091
+880,2018 General Election,MONTGOMERY,United States Senator,Libertarian,3418,0.009021778435890736,42091
+881,2018 General Election,MONTGOMERY,Governor,Democratic,254985,0.6711562201416618,42091
+882,2018 General Election,MONTGOMERY,Governor,Republican,119975,0.31579099755474194,42091
+883,2018 General Election,MONTGOMERY,Governor,Green,1722,0.0045325450951387005,42091
+884,2018 General Election,MONTGOMERY,Governor,Libertarian,3237,0.008520237208457591,42091
+885,2018 General Election,MONTGOMERY,Representative in Congress,Democratic,19130,0.05063699915560885,42091
+886,2018 General Election,MONTGOMERY,Representative in Congress,Republican,16550,0.04380775410482626,42091
+887,2018 General Election,MONTGOMERY,Representative in Congress,Democratic,207381,0.5489363053784275,42091
+888,2018 General Election,MONTGOMERY,Representative in Congress,Republican,116954,0.30957656033690945,42091
+889,2018 General Election,MONTGOMERY,Representative in Congress,Democratic,13888,0.03676145552917385,42091
+890,2018 General Election,MONTGOMERY,Representative in Congress,Republican,3884,0.010280925495054091,42091
+891,2018 General Election,MONTGOMERY,Senator in the General Assembly,Democratic,46786,0.17646237925871167,42091
+892,2018 General Election,MONTGOMERY,Senator in the General Assembly,Republican,15123,0.05703929725835712,42091
+893,2018 General Election,MONTGOMERY,Senator in the General Assembly,Democratic,45292,0.17082747149543814,42091
+894,2018 General Election,MONTGOMERY,Senator in the General Assembly,Republican,38045,0.14349401998242392,42091
+895,2018 General Election,MONTGOMERY,Senator in the General Assembly,Democratic,34637,0.13064009383969555,42091
+896,2018 General Election,MONTGOMERY,Senator in the General Assembly,Republican,34052,0.12843365405287158,42091
+897,2018 General Election,MONTGOMERY,Senator in the General Assembly,Democratic,27476,0.10363100783380416,42091
+898,2018 General Election,MONTGOMERY,Senator in the General Assembly,Republican,23722,0.08947207627869787,42091
+899,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,1673,0.004622032147020958,42091
+900,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,507,0.0014006995209441876,42091
+901,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,13581,0.037520513203043414,42091
+902,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,12724,0.035152861350086474,42091
+903,2018 General Election,MONTGOMERY,Representative in the General Assembly,Libertarian,288,0.0007956636331990651,42091
+904,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,17625,0.04869295671921362,42091
+905,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,15186,0.04195468032555904,42091
+906,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,15939,0.04403500919986076,42091
+907,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,7063,0.01951309806001735,42091
+908,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,2759,0.007622347097209099,42091
+909,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,3568,0.009857388344632862,42091
+910,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,14058,0.038838331095529366,42091
+911,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,11264,0.03111928876511899,42091
+912,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,12052,0.03329631287262199,42091
+913,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,15794,0.04363441466231262,42091
+914,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,26555,0.07336405479028185,42091
+915,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,22987,0.063506666445649,42091
+916,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,15551,0.04296307347180091,42091
+917,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,12180,0.033649941154043794,42091
+918,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,14438,0.03988816505600035,42091
+919,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,15269,0.04218398616429349,42091
+920,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,12511,0.034564401788032995,42091
+921,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,15150,0.04185522237140915,42091
+922,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,23654,0.06534940131837044,42091
+923,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,9413,0.026005492289245834,42091
+924,2018 General Election,MONTGOMERY,Representative in the General Assembly,Libertarian,352,0.0009724777739099685,42091
+925,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,26312,0.07269271359977014,42091
+926,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,5986,0.016537647598366678,42091
+927,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,3151,0.008705333709063382,42091
+928,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,2648,0.007315685071913627,42091
+929,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,4563,0.012606295688497688,42091
+930,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,881,0.002433957155723529,42091
+931,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,743,0.0020527016648156436,42091
+932,2018 General Election,MONTGOMERY,Representative in the General Assembly,Democratic,4388,0.01212281952249131,42091
+933,2018 General Election,MONTGOMERY,Representative in the General Assembly,Republican,1104,0.003050043927263083,42091
+934,2018 General Election,MONTGOMERY,Representative in the General Assembly,Libertarian,45,0.00012432244268735393,42091
+935,2018 General Election,MONTOUR,United States Senator,Democratic,2965,0.4215839613251813,42093
+936,2018 General Election,MONTOUR,United States Senator,Republican,3944,0.5607848713209157,42093
+937,2018 General Election,MONTOUR,United States Senator,Green,51,0.007251528508460116,42093
+938,2018 General Election,MONTOUR,United States Senator,Libertarian,73,0.010379638845442912,42093
+939,2018 General Election,MONTOUR,Governor,Democratic,3227,0.4600798403193613,42093
+940,2018 General Election,MONTOUR,Governor,Republican,3642,0.5192472198460223,42093
+941,2018 General Election,MONTOUR,Governor,Green,48,0.006843455945252352,42093
+942,2018 General Election,MONTOUR,Governor,Libertarian,97,0.01382948388936413,42093
+943,2018 General Election,MONTOUR,Representative in Congress,Democratic,3075,0.43991416309012876,42093
+944,2018 General Election,MONTOUR,Representative in Congress,Republican,3915,0.5600858369098712,42093
+945,2018 General Election,MONTOUR,Representative in the General Assembly,Democratic,2419,0.34641271659745093,42093
+946,2018 General Election,MONTOUR,Representative in the General Assembly,Republican,4564,0.653587283402549,42093
+947,2018 General Election,NORTHAMPTON,United States Senator,Democratic,20599,0.5438392692135069,42095
+948,2018 General Election,NORTHAMPTON,United States Senator,Republican,16625,0.43892071705784513,42095
+949,2018 General Election,NORTHAMPTON,United States Senator,Green,241,0.0063627003194550785,42095
+950,2018 General Election,NORTHAMPTON,United States Senator,Libertarian,412,0.010877313409192913,42095
+951,2018 General Election,NORTHAMPTON,Governor,Democratic,21708,0.5699133630874246,42095
+952,2018 General Election,NORTHAMPTON,Governor,Republican,15745,0.4133630874245209,42095
+953,2018 General Election,NORTHAMPTON,Governor,Green,198,0.005198214754528748,42095
+954,2018 General Election,NORTHAMPTON,Governor,Libertarian,439,0.01152533473352586,42095
+955,2018 General Election,NORTHAMPTON,Representative in Congress,Democratic,19685,0.51866782599531,42095
+956,2018 General Election,NORTHAMPTON,Representative in Congress,Republican,17145,0.4517429452217216,42095
+957,2018 General Election,NORTHAMPTON,Representative in Congress,Libertarian,1123,0.029589228782968408,42095
+958,2018 General Election,NORTHAMPTON,Senator in the General Assembly,Democratic,13115,0.41106409653659304,42095
+959,2018 General Election,NORTHAMPTON,Senator in the General Assembly,Democratic,7705,0.24149819777464349,42095
+960,2018 General Election,NORTHAMPTON,Senator in the General Assembly,Republican,10796,0.3383795643316095,42095
+961,2018 General Election,NORTHAMPTON,Senator in the General Assembly,Libertarian,289,0.009058141357154052,42095
+962,2018 General Election,NORTHAMPTON,Representative in the General Assembly,Democratic,943,0.027402435126260425,42095
+963,2018 General Election,NORTHAMPTON,Representative in the General Assembly,Republican,852,0.02475808560718333,42095
+964,2018 General Election,NORTHAMPTON,Representative in the General Assembly,Democratic,5117,0.1486938075727196,42095
+965,2018 General Election,NORTHAMPTON,Representative in the General Assembly,Democratic,4315,0.12538866126173248,42095
+966,2018 General Election,NORTHAMPTON,Representative in the General Assembly,Democratic,3730,0.10838927149623688,42095
+967,2018 General Election,NORTHAMPTON,Representative in the General Assembly,Republican,4862,0.14128381716211896,42095
+968,2018 General Election,NORTHAMPTON,Representative in the General Assembly,Libertarian,98,0.0028477610205445616,42095
+969,2018 General Election,NORTHAMPTON,Representative in the General Assembly,Democratic,3869,0.11242844273966233,42095
+970,2018 General Election,NORTHAMPTON,Representative in the General Assembly,Republican,5228,0.1519193328102752,42095
+971,2018 General Election,NORTHAMPTON,Representative in the General Assembly,Libertarian,162,0.004707523319675704,42095
+972,2018 General Election,NORTHAMPTON,Representative in the General Assembly,Democratic,2102,0.06108156801208846,42095
+973,2018 General Election,NORTHAMPTON,Representative in the General Assembly,Republican,3135,0.09109929387150205,42095
+974,2018 General Election,NORTHUMBERLAND,United States Senator,Democratic,10093,0.3616396144612849,42097
+975,2018 General Election,NORTHUMBERLAND,United States Senator,Republican,17402,0.6235264609982443,42097
+976,2018 General Election,NORTHUMBERLAND,United States Senator,Green,138,0.004944641513490272,42097
+977,2018 General Election,NORTHUMBERLAND,United States Senator,Libertarian,276,0.009889283026980543,42097
+978,2018 General Election,NORTHUMBERLAND,Governor,Democratic,11660,0.41844607931096356,42097
+979,2018 General Election,NORTHUMBERLAND,Governor,Republican,15661,0.5620312219630361,42097
+980,2018 General Election,NORTHUMBERLAND,Governor,Green,196,0.007033913511573659,42097
+981,2018 General Election,NORTHUMBERLAND,Governor,Libertarian,348,0.0124887852144267,42097
+982,2018 General Election,NORTHUMBERLAND,Representative in Congress,Democratic,3677,0.13399657446886046,42097
+983,2018 General Election,NORTHUMBERLAND,Representative in Congress,Republican,5202,0.1895703509347327,42097
+984,2018 General Election,NORTHUMBERLAND,Representative in Congress,Democratic,5424,0.19766043511533837,42097
+985,2018 General Election,NORTHUMBERLAND,Representative in Congress,Republican,13138,0.47877263948106846,42097
+986,2018 General Election,NORTHUMBERLAND,Representative in the General Assembly,Democratic,3584,0.14208690136378052,42097
+987,2018 General Election,NORTHUMBERLAND,Representative in the General Assembly,Republican,7783,0.30855534411671426,42097
+988,2018 General Election,NORTHUMBERLAND,Representative in the General Assembly,Republican,13857,0.5493577545195052,42097
+989,2018 General Election,PERRY,United States Senator,Democratic,5186,0.3018977762254046,42099
+990,2018 General Election,PERRY,United States Senator,Republican,11607,0.6756898358365351,42099
+991,2018 General Election,PERRY,United States Senator,Green,136,0.007917103271626499,42099
+992,2018 General Election,PERRY,United States Senator,Libertarian,249,0.014495284666433812,42099
+993,2018 General Election,PERRY,Governor,Democratic,5905,0.34339381251453827,42099
+994,2018 General Election,PERRY,Governor,Republican,10915,0.634740637357525,42099
+995,2018 General Election,PERRY,Governor,Green,114,0.006629448709002094,42099
+996,2018 General Election,PERRY,Governor,Libertarian,262,0.015236101418934635,42099
+997,2018 General Election,PERRY,Representative in Congress,Democratic,4493,0.2632257308571094,42099
+998,2018 General Election,PERRY,Representative in Congress,Republican,12576,0.7367742691428906,42099
+999,2018 General Election,PERRY,Representative in the General Assembly,Democratic,4267,0.2479804730632882,42099
+1000,2018 General Election,PERRY,Representative in the General Assembly,Republican,12940,0.7520195269367118,42099
+1001,2018 General Election,PHILADELPHIA,United States Senator,Democratic,461517,0.866910231605838,42101
+1002,2018 General Election,PHILADELPHIA,United States Senator,Republican,64747,0.12162030166989124,42101
+1003,2018 General Election,PHILADELPHIA,United States Senator,Green,3419,0.006422225144166651,42101
+1004,2018 General Election,PHILADELPHIA,United States Senator,Libertarian,2687,0.005047241580104063,42101
+1005,2018 General Election,PHILADELPHIA,Governor,Democratic,464628,0.8723508118419274,42101
+1006,2018 General Election,PHILADELPHIA,Governor,Republican,62694,0.11770956937080373,42101
+1007,2018 General Election,PHILADELPHIA,Governor,Green,2805,0.005266458386529883,42101
+1008,2018 General Election,PHILADELPHIA,Governor,Libertarian,2489,0.004673160400738994,42101
+1009,2018 General Election,PHILADELPHIA,Representative in Congress,Democratic,154384,0.293159040070487,42101
+1010,2018 General Election,PHILADELPHIA,Representative in Congress,Republican,41416,0.07864464454580325,42101
+1011,2018 General Election,PHILADELPHIA,Representative in Congress,Democratic,275062,0.5223139177626457,42101
+1012,2018 General Election,PHILADELPHIA,Representative in Congress,Republican,19549,0.03712150270972348,42101
+1013,2018 General Election,PHILADELPHIA,Representative in Congress,Democratic,29078,0.05521607528739779,42101
+1014,2018 General Election,PHILADELPHIA,Representative in Congress,Republican,7133,0.01354481962394279,42101
+1015,2018 General Election,PHILADELPHIA,Senator in the General Assembly,Democratic,57437,0.31726313114853705,42101
+1016,2018 General Election,PHILADELPHIA,Senator in the General Assembly,Democratic,60725,0.3354249636818586,42101
+1017,2018 General Election,PHILADELPHIA,Senator in the General Assembly,Republican,1800,0.009942609051088439,42101
+1018,2018 General Election,PHILADELPHIA,Senator in the General Assembly,Democratic,61077,0.3373692961185159,42101
+1019,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,934,0.0018911974276475244,42101
+1020,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Republican,1293,0.0026181137836705022,42101
+1021,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,8467,0.017144291884252236,42101
+1022,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Republican,11537,0.023360540388404166,42101
+1023,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,13324,0.026978923475348627,42101
+1024,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,13556,0.027448685577291052,42101
+1025,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,13976,0.028299116968738547,42101
+1026,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,23452,0.04748646902911108,42101
+1027,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,11277,0.02283408286036524,42101
+1028,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Republican,7699,0.015589217339891104,42101
+1029,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,14282,0.028918716982507437,42101
+1030,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,10147,0.02054601745004222,42101
+1031,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,20722,0.04195866498470236,42101
+1032,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Republican,1014,0.002053184359351809,42101
+1033,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,26687,0.05403681557990309,42101
+1034,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Independent,2803,0.005675617119588877,42101
+1035,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,16855,0.0341286216734465,42101
+1036,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,15438,0.03125942814563435,42101
+1037,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,24753,0.050120781505952006,42101
+1038,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,22276,0.04510526113305809,42101
+1039,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,22182,0.04491492648830556,42101
+1040,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,14284,0.028922766655800042,42101
+1041,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,24341,0.04928654880767494,42101
+1042,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,17825,0.03609271322036095,42101
+1043,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Republican,4450,0.00901052307605084,42101
+1044,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Libertarian,692,0.0014011869592420632,42101
+1045,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,23919,0.04843206774293484,42101
+1046,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,15074,0.030522387606379854,42101
+1047,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,21765,0.04407056960679697,42101
+1048,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,31250,0.06327614519698624,42101
+1049,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,21894,0.04433177353417013,42101
+1050,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,13800,0.02794274571898912,42101
+1051,2018 General Election,PHILADELPHIA,Representative in the General Assembly,Democratic,21899,0.04434189771740165,42101
+1052,2018 General Election,PIKE,United States Senator,Democratic,8671,0.4207385123004513,42103
+1053,2018 General Election,PIKE,United States Senator,Republican,11612,0.563443155902761,42103
+1054,2018 General Election,PIKE,United States Senator,Green,149,0.007229851035955165,42103
+1055,2018 General Election,PIKE,United States Senator,Libertarian,177,0.008588480760832646,42103
+1056,2018 General Election,PIKE,Governor,Democratic,9053,0.4368154402895054,42103
+1057,2018 General Election,PIKE,Governor,Republican,11358,0.5480337756332931,42103
+1058,2018 General Election,PIKE,Governor,Green,127,0.006127864897466828,42103
+1059,2018 General Election,PIKE,Governor,Libertarian,187,0.00902291917973462,42103
+1060,2018 General Election,PIKE,Representative in Congress,Democratic,8702,0.4227555382821609,42103
+1061,2018 General Election,PIKE,Representative in Congress,Republican,11882,0.577244461717839,42103
+1062,2018 General Election,PIKE,Senator in the General Assembly,Republican,13426,0.7699277440073403,42103
+1063,2018 General Election,PIKE,Senator in the General Assembly,Green,4012,0.2300722559926597,42103
+1064,2018 General Election,PIKE,Representative in the General Assembly,Democratic,5868,0.28614619398254254,42103
+1065,2018 General Election,PIKE,Representative in the General Assembly,Republican,9068,0.44219047154630126,42103
+1066,2018 General Election,PIKE,Representative in the General Assembly,Democratic,2235,0.10898717511093772,42103
+1067,2018 General Election,PIKE,Representative in the General Assembly,Republican,3336,0.16267615936021845,42103
+1068,2018 General Election,POTTER,United States Senator,Democratic,1542,0.24903100775193798,42105
+1069,2018 General Election,POTTER,United States Senator,Republican,4551,0.7349806201550387,42105
+1070,2018 General Election,POTTER,United States Senator,Green,38,0.006136950904392765,42105
+1071,2018 General Election,POTTER,United States Senator,Libertarian,61,0.00985142118863049,42105
+1072,2018 General Election,POTTER,Governor,Democratic,1450,0.23085495940136921,42105
+1073,2018 General Election,POTTER,Governor,Republican,4723,0.7519503263811494,42105
+1074,2018 General Election,POTTER,Governor,Green,42,0.006686833306798281,42105
+1075,2018 General Election,POTTER,Governor,Libertarian,66,0.010507880910683012,42105
+1076,2018 General Election,POTTER,Representative in Congress,Democratic,1414,0.22605915267785773,42105
+1077,2018 General Election,POTTER,Representative in Congress,Republican,4841,0.7739408473221423,42105
+1078,2018 General Election,POTTER,Representative in the General Assembly,Democratic,974,0.15507084859098869,42105
+1079,2018 General Election,POTTER,Representative in the General Assembly,Republican,4853,0.7726476675688585,42105
+1080,2018 General Election,POTTER,Representative in the General Assembly,Democratic,122,0.01942365865308072,42105
+1081,2018 General Election,POTTER,Representative in the General Assembly,Republican,332,0.05285782518707212,42105
+1082,2018 General Election,SCHUYLKILL,United States Senator,Democratic,17682,0.3621505376344086,42107
+1083,2018 General Election,SCHUYLKILL,United States Senator,Republican,30444,0.6235330261136712,42107
+1084,2018 General Election,SCHUYLKILL,United States Senator,Green,278,0.005693804403481823,42107
+1085,2018 General Election,SCHUYLKILL,United States Senator,Libertarian,421,0.008622631848438301,42107
+1086,2018 General Election,SCHUYLKILL,Governor,Democratic,21172,0.4346897712807457,42107
+1087,2018 General Election,SCHUYLKILL,Governor,Republican,26635,0.5468525438344352,42107
+1088,2018 General Election,SCHUYLKILL,Governor,Green,329,0.006754814601897097,42107
+1089,2018 General Election,SCHUYLKILL,Governor,Libertarian,570,0.011702870282922022,42107
+1090,2018 General Election,SCHUYLKILL,Representative in Congress,Democratic,18501,0.3819364161849711,42107
+1091,2018 General Election,SCHUYLKILL,Representative in Congress,Republican,29939,0.6180635838150289,42107
+1092,2018 General Election,SCHUYLKILL,Representative in the General Assembly,Democratic,12016,0.31339818992723195,42107
+1093,2018 General Election,SCHUYLKILL,Representative in the General Assembly,Republican,11424,0.29795779974439895,42107
+1094,2018 General Election,SCHUYLKILL,Representative in the General Assembly,Republican,14901,0.3886440103283691,42107
+1095,2018 General Election,SNYDER,United States Senator,Democratic,4320,0.32274934628315277,42109
+1096,2018 General Election,SNYDER,United States Senator,Republican,8820,0.6589465819947703,42109
+1097,2018 General Election,SNYDER,United States Senator,Green,87,0.006499813223757938,42109
+1098,2018 General Election,SNYDER,United States Senator,Libertarian,158,0.011804258498319014,42109
+1099,2018 General Election,SNYDER,Governor,Democratic,4831,0.3625243884136275,42109
+1100,2018 General Election,SNYDER,Governor,Republican,8279,0.6212666966831758,42109
+1101,2018 General Election,SNYDER,Governor,Green,67,0.005027765270898994,42109
+1102,2018 General Election,SNYDER,Governor,Libertarian,149,0.011181149632297764,42109
+1103,2018 General Election,SNYDER,Representative in Congress,Democratic,3581,0.2698364855700399,42109
+1104,2018 General Election,SNYDER,Representative in Congress,Republican,9690,0.7301635144299601,42109
+1105,2018 General Election,SNYDER,Representative in the General Assembly,Democratic,2351,0.1854539717598801,42109
+1106,2018 General Election,SNYDER,Representative in the General Assembly,Republican,7055,0.5565196813126134,42109
+1107,2018 General Election,SNYDER,Representative in the General Assembly,Republican,3271,0.25802634692750653,42109
+1108,2018 General Election,SOMERSET,United States Senator,Democratic,9312,0.3257196823953269,42111
+1109,2018 General Election,SOMERSET,United States Senator,Republican,18859,0.6596593095246424,42111
+1110,2018 General Election,SOMERSET,United States Senator,Green,129,0.0045122249816362935,42111
+1111,2018 General Election,SOMERSET,United States Senator,Libertarian,289,0.010108783098394487,42111
+1112,2018 General Election,SOMERSET,Governor,Democratic,9129,0.3182943412014923,42111
+1113,2018 General Election,SOMERSET,Governor,Republican,18984,0.661901607335867,42111
+1114,2018 General Election,SOMERSET,Governor,Green,203,0.007077856420626896,42111
+1115,2018 General Election,SOMERSET,Governor,Libertarian,365,0.012726195042013876,42111
+1116,2018 General Election,SOMERSET,Representative in Congress,Democratic,6958,0.244234616869669,42111
+1117,2018 General Election,SOMERSET,Representative in Congress,Republican,21531,0.755765383130331,42111
+1118,2018 General Election,SOMERSET,Senator in the General Assembly,Democratic,6526,0.22845340614716797,42111
+1119,2018 General Election,SOMERSET,Senator in the General Assembly,Republican,22040,0.7715465938528321,42111
+1120,2018 General Election,SOMERSET,Representative in the General Assembly,Democratic,1065,0.03720004191554019,42111
+1121,2018 General Election,SOMERSET,Representative in the General Assembly,Republican,2813,0.09825701212057704,42111
+1122,2018 General Election,SOMERSET,Representative in the General Assembly,Democratic,1565,0.054664850326591914,42111
+1123,2018 General Election,SOMERSET,Representative in the General Assembly,Republican,3856,0.13468860246603095,42111
+1124,2018 General Election,SOMERSET,Representative in the General Assembly,Democratic,4224,0.14754270145656503,42111
+1125,2018 General Election,SOMERSET,Representative in the General Assembly,Republican,14775,0.5160850885465786,42111
+1126,2018 General Election,SOMERSET,Representative in the General Assembly,Democratic,130,0.00454085018687345,42111
+1127,2018 General Election,SOMERSET,Representative in the General Assembly,Republican,201,0.0070208529812427955,42111
+1128,2018 General Election,SULLIVAN,United States Senator,Democratic,980,0.349002849002849,42113
+1129,2018 General Election,SULLIVAN,United States Senator,Republican,1782,0.6346153846153846,42113
+1130,2018 General Election,SULLIVAN,United States Senator,Green,11,0.003917378917378918,42113
+1131,2018 General Election,SULLIVAN,United States Senator,Libertarian,35,0.012464387464387465,42113
+1132,2018 General Election,SULLIVAN,Governor,Democratic,996,0.3586604249189773,42113
+1133,2018 General Election,SULLIVAN,Governor,Republican,1723,0.6204537270435722,42113
+1134,2018 General Election,SULLIVAN,Governor,Green,11,0.003961109110550955,42113
+1135,2018 General Election,SULLIVAN,Governor,Libertarian,47,0.01692473892689953,42113
+1136,2018 General Election,SULLIVAN,Representative in Congress,Democratic,843,0.303019410496046,42113
+1137,2018 General Election,SULLIVAN,Representative in Congress,Republican,1939,0.696980589503954,42113
+1138,2018 General Election,SULLIVAN,Representative in the General Assembly,Democratic,991,0.3516678495386799,42113
+1139,2018 General Election,SULLIVAN,Representative in the General Assembly,Republican,1827,0.6483321504613201,42113
+1140,2018 General Election,SUSQUEHANNA,United States Senator,Democratic,5455,0.3464811991869919,42115
+1141,2018 General Election,SUSQUEHANNA,United States Senator,Republican,10012,0.6359247967479674,42115
+1142,2018 General Election,SUSQUEHANNA,United States Senator,Green,116,0.007367886178861789,42115
+1143,2018 General Election,SUSQUEHANNA,United States Senator,Libertarian,161,0.010226117886178861,42115
+1144,2018 General Election,SUSQUEHANNA,Governor,Democratic,5210,0.33530698931651437,42115
+1145,2018 General Election,SUSQUEHANNA,Governor,Republican,10022,0.6449993564165272,42115
+1146,2018 General Election,SUSQUEHANNA,Governor,Green,129,0.008302226798815806,42115
+1147,2018 General Election,SUSQUEHANNA,Governor,Libertarian,177,0.011391427468142618,42115
+1148,2018 General Election,SUSQUEHANNA,Representative in Congress,Democratic,4755,0.30430052476641495,42115
+1149,2018 General Election,SUSQUEHANNA,Representative in Congress,Republican,10871,0.695699475233585,42115
+1150,2018 General Election,SUSQUEHANNA,Senator in the General Assembly,Republican,7505,0.8643326039387309,42115
+1151,2018 General Election,SUSQUEHANNA,Senator in the General Assembly,Green,1178,0.13566739606126915,42115
+1152,2018 General Election,SUSQUEHANNA,Representative in the General Assembly,Democratic,744,0.04803098773402195,42115
+1153,2018 General Election,SUSQUEHANNA,Representative in the General Assembly,Republican,2420,0.15622982569399613,42115
+1154,2018 General Election,SUSQUEHANNA,Representative in the General Assembly,Democratic,3584,0.231375080697224,42115
+1155,2018 General Election,SUSQUEHANNA,Representative in the General Assembly,Republican,8742,0.5643641058747579,42115
+1156,2018 General Election,TIOGA,United States Senator,Democratic,3958,0.28114789032533033,42117
+1157,2018 General Election,TIOGA,United States Senator,Republican,9812,0.6969740019889189,42117
+1158,2018 General Election,TIOGA,United States Senator,Green,118,0.008381872425060378,42117
+1159,2018 General Election,TIOGA,United States Senator,Libertarian,190,0.013496235260690439,42117
+1160,2018 General Election,TIOGA,Governor,Democratic,3807,0.2689889069455239,42117
+1161,2018 General Election,TIOGA,Governor,Republican,10036,0.7091076096940578,42117
+1162,2018 General Election,TIOGA,Governor,Green,132,0.00932664452766198,42117
+1163,2018 General Election,TIOGA,Governor,Libertarian,178,0.012576838832756307,42117
+1164,2018 General Election,TIOGA,Representative in Congress,Democratic,3561,0.25336179295624334,42117
+1165,2018 General Election,TIOGA,Representative in Congress,Republican,10494,0.7466382070437567,42117
+1166,2018 General Election,TIOGA,Representative in the General Assembly,Democratic,3406,0.24046879412595312,42117
+1167,2018 General Election,TIOGA,Representative in the General Assembly,Republican,10758,0.7595312058740469,42117
+1168,2018 General Election,UNION,United States Senator,Democratic,5893,0.4083853083853084,42119
+1169,2018 General Election,UNION,United States Senator,Republican,8315,0.5762300762300763,42119
+1170,2018 General Election,UNION,United States Senator,Green,78,0.005405405405405406,42119
+1171,2018 General Election,UNION,United States Senator,Libertarian,144,0.00997920997920998,42119
+1172,2018 General Election,UNION,Governor,Democratic,6417,0.44608967674661104,42119
+1173,2018 General Election,UNION,Governor,Republican,7674,0.5334723670490094,42119
+1174,2018 General Election,UNION,Governor,Green,93,0.0064650677789363925,42119
+1175,2018 General Election,UNION,Governor,Libertarian,201,0.01397288842544317,42119
+1176,2018 General Election,UNION,Representative in Congress,Democratic,5415,0.37695788374521405,42119
+1177,2018 General Election,UNION,Representative in Congress,Republican,8950,0.6230421162547859,42119
+1178,2018 General Election,UNION,Representative in the General Assembly,Democratic,483,0.03382116098312443,42119
+1179,2018 General Election,UNION,Representative in the General Assembly,Republican,1494,0.10461452279252154,42119
+1180,2018 General Election,UNION,Representative in the General Assembly,Democratic,4651,0.32567747356627685,42119
+1181,2018 General Election,UNION,Representative in the General Assembly,Republican,7653,0.5358868426580772,42119
+1182,2018 General Election,VENANGO,United States Senator,Democratic,6604,0.3732338645868656,42121
+1183,2018 General Election,VENANGO,United States Senator,Republican,10747,0.6073810331185713,42121
+1184,2018 General Election,VENANGO,United States Senator,Green,116,0.006555894653554877,42121
+1185,2018 General Election,VENANGO,United States Senator,Libertarian,227,0.012829207641008252,42121
+1186,2018 General Election,VENANGO,Governor,Democratic,7076,0.3972602739726027,42121
+1187,2018 General Election,VENANGO,Governor,Republican,10412,0.5845497417471368,42121
+1188,2018 General Election,VENANGO,Governor,Green,92,0.005165057264765327,42121
+1189,2018 General Election,VENANGO,Governor,Libertarian,232,0.013024927015495171,42121
+1190,2018 General Election,VENANGO,Representative in Congress,Democratic,5626,0.31853697203034764,42121
+1191,2018 General Election,VENANGO,Representative in Congress,Republican,12036,0.6814630279696524,42121
+1192,2018 General Election,VENANGO,Representative in the General Assembly,Democratic,5910,0.3326204412426835,42121
+1193,2018 General Election,VENANGO,Representative in the General Assembly,Republican,11858,0.6673795587573165,42121
+1194,2018 General Election,WARREN,United States Senator,Democratic,5370,0.3748429429010191,42123
+1195,2018 General Election,WARREN,United States Senator,Republican,8712,0.6081250872539439,42123
+1196,2018 General Election,WARREN,United States Senator,Green,92,0.006421890269440179,42123
+1197,2018 General Election,WARREN,United States Senator,Libertarian,152,0.010610079575596816,42123
+1198,2018 General Election,WARREN,Governor,Democratic,5428,0.37579617834394907,42123
+1199,2018 General Election,WARREN,Governor,Republican,8746,0.6055109387981169,42123
+1200,2018 General Election,WARREN,Governor,Green,108,0.007477153143173636,42123
+1201,2018 General Election,WARREN,Governor,Libertarian,162,0.011215729714760455,42123
+1202,2018 General Election,WARREN,Representative in Congress,Democratic,4750,0.33015917147424756,42123
+1203,2018 General Election,WARREN,Representative in Congress,Republican,9637,0.6698408285257524,42123
+1204,2018 General Election,WARREN,Senator in the General Assembly,Democratic,300,0.2403846153846154,42123
+1205,2018 General Election,WARREN,Senator in the General Assembly,Republican,948,0.7596153846153846,42123
+1206,2018 General Election,WARREN,Representative in the General Assembly,Republican,11081,1.0,42123
+1207,2018 General Election,WASHINGTON,United States Senator,Democratic,37571,0.47423760476623245,42125
+1208,2018 General Election,WASHINGTON,United States Senator,Republican,40380,0.5096940321114813,42125
+1209,2018 General Election,WASHINGTON,United States Senator,Green,363,0.004581944865192366,42125
+1210,2018 General Election,WASHINGTON,United States Senator,Libertarian,910,0.01148641825709381,42125
+1211,2018 General Election,WASHINGTON,Governor,Democratic,38213,0.48278606713749667,42125
+1212,2018 General Election,WASHINGTON,Governor,Republican,39165,0.49481371050271,42125
+1213,2018 General Election,WASHINGTON,Governor,Green,530,0.006696061957524226,42125
+1214,2018 General Election,WASHINGTON,Governor,Libertarian,1243,0.01570416040226908,42125
+1215,2018 General Election,WASHINGTON,Representative in Congress,Democratic,32134,0.42462042628539715,42125
+1216,2018 General Election,WASHINGTON,Representative in Congress,Republican,43543,0.5753795737146028,42125
+1217,2018 General Election,WASHINGTON,Senator in the General Assembly,Democratic,27194,0.3992190023195044,42125
+1218,2018 General Election,WASHINGTON,Senator in the General Assembly,Republican,40924,0.6007809976804956,42125
+1219,2018 General Election,WASHINGTON,Representative in the General Assembly,Democratic,2640,0.03344142683421159,42125
+1220,2018 General Election,WASHINGTON,Representative in the General Assembly,Republican,5942,0.07526854479124442,42125
+1221,2018 General Election,WASHINGTON,Representative in the General Assembly,Democratic,1945,0.02463771787596271,42125
+1222,2018 General Election,WASHINGTON,Representative in the General Assembly,Republican,3101,0.03928100932306445,42125
+1223,2018 General Election,WASHINGTON,Representative in the General Assembly,Democratic,3810,0.04826205918119173,42125
+1224,2018 General Election,WASHINGTON,Representative in the General Assembly,Republican,6947,0.08799908796108634,42125
+1225,2018 General Election,WASHINGTON,Representative in the General Assembly,Democratic,5423,0.06869426428860964,42125
+1226,2018 General Election,WASHINGTON,Representative in the General Assembly,Republican,8023,0.1016290028374544,42125
+1227,2018 General Election,WASHINGTON,Representative in the General Assembly,Democratic,10313,0.1306369071747061,42125
+1228,2018 General Election,WASHINGTON,Representative in the General Assembly,Republican,12993,0.16458502229428457,42125
+1229,2018 General Election,WASHINGTON,Representative in the General Assembly,Democratic,8136,0.10306039724361572,42125
+1230,2018 General Election,WASHINGTON,Representative in the General Assembly,Republican,7642,0.09680279691933523,42125
+1231,2018 General Election,WASHINGTON,Representative in the General Assembly,Democratic,1239,0.01569466963923794,42125
+1232,2018 General Election,WASHINGTON,Representative in the General Assembly,Republican,790,0.010007093635995137,42125
+1233,2018 General Election,WAYNE,United States Senator,Democratic,7579,0.3773274917853231,42127
+1234,2018 General Election,WAYNE,United States Senator,Republican,12239,0.6093298815095091,42127
+1235,2018 General Election,WAYNE,United States Senator,Green,119,0.0059245245444588274,42127
+1236,2018 General Election,WAYNE,United States Senator,Libertarian,149,0.0074181021607089516,42127
+1237,2018 General Election,WAYNE,Governor,Democratic,7982,0.3987212148458964,42127
+1238,2018 General Election,WAYNE,Governor,Republican,11726,0.5857435436335481,42127
+1239,2018 General Election,WAYNE,Governor,Green,133,0.0066436884959288674,42127
+1240,2018 General Election,WAYNE,Governor,Libertarian,178,0.008891553024626605,42127
+1241,2018 General Election,WAYNE,Representative in Congress,Democratic,7502,0.3748001598721023,42127
+1242,2018 General Election,WAYNE,Representative in Congress,Republican,12514,0.6251998401278976,42127
+1243,2018 General Election,WAYNE,Senator in the General Assembly,Republican,14972,0.8454935622317596,42127
+1244,2018 General Election,WAYNE,Senator in the General Assembly,Green,2736,0.15450643776824036,42127
+1245,2018 General Election,WAYNE,Representative in the General Assembly,Democratic,2771,0.1393512698013578,42127
+1246,2018 General Election,WAYNE,Representative in the General Assembly,Republican,7388,0.3715363339200402,42127
+1247,2018 General Election,WAYNE,Representative in the General Assembly,Democratic,2656,0.13356801609253205,42127
+1248,2018 General Election,WAYNE,Representative in the General Assembly,Republican,7070,0.3555443801860699,42127
+1249,2018 General Election,WESTMORELAND,United States Senator,Democratic,63639,0.4388896551724138,42129
+1250,2018 General Election,WESTMORELAND,United States Senator,Republican,78966,0.5445931034482758,42129
+1251,2018 General Election,WESTMORELAND,United States Senator,Green,700,0.004827586206896552,42129
+1252,2018 General Election,WESTMORELAND,United States Senator,Libertarian,1695,0.011689655172413793,42129
+1253,2018 General Election,WESTMORELAND,Governor,Democratic,67843,0.4643981709654455,42129
+1254,2018 General Election,WESTMORELAND,Governor,Republican,76036,0.5204808060894803,42129
+1255,2018 General Election,WESTMORELAND,Governor,Green,684,0.0046821094135041895,42129
+1256,2018 General Election,WESTMORELAND,Governor,Libertarian,1525,0.010438913531570013,42129
+1257,2018 General Election,WESTMORELAND,Representative in Congress,Democratic,5453,0.03755768303602176,42129
+1258,2018 General Election,WESTMORELAND,Representative in Congress,Republican,9971,0.0686755286176734,42129
+1259,2018 General Election,WESTMORELAND,Representative in Congress,Democratic,54251,0.37365521041394034,42129
+1260,2018 General Election,WESTMORELAND,Representative in Congress,Republican,75515,0.5201115779323645,42129
+1261,2018 General Election,WESTMORELAND,Senator in the General Assembly,Democratic,5651,0.4230107043940415,42129
+1262,2018 General Election,WESTMORELAND,Senator in the General Assembly,Republican,7708,0.5769892956059586,42129
+1263,2018 General Election,WESTMORELAND,Representative in the General Assembly,Democratic,3348,0.02400671155376772,42129
+1264,2018 General Election,WESTMORELAND,Representative in the General Assembly,Republican,2494,0.017883135787065917,42129
+1265,2018 General Election,WESTMORELAND,Representative in the General Assembly,Democratic,1072,0.007686736793798984,42129
+1266,2018 General Election,WESTMORELAND,Representative in the General Assembly,Republican,1826,0.013093266217795656,42129
+1267,2018 General Election,WESTMORELAND,Representative in the General Assembly,Democratic,7991,0.05729917324556686,42129
+1268,2018 General Election,WESTMORELAND,Representative in the General Assembly,Republican,12450,0.08927226966678857,42129
+1269,2018 General Election,WESTMORELAND,Representative in the General Assembly,Democratic,13003,0.09323753594194793,42129
+1270,2018 General Election,WESTMORELAND,Representative in the General Assembly,Democratic,10341,0.07414976229913739,42129
+1271,2018 General Election,WESTMORELAND,Representative in the General Assembly,Republican,17597,0.12617864492582156,42129
+1272,2018 General Election,WESTMORELAND,Representative in the General Assembly,Democratic,9491,0.0680548683861438,42129
+1273,2018 General Election,WESTMORELAND,Representative in the General Assembly,Republican,16043,0.11503574476018386,42129
+1274,2018 General Election,WESTMORELAND,Representative in the General Assembly,Democratic,8782,0.06297100981636443,42129
+1275,2018 General Election,WESTMORELAND,Representative in the General Assembly,Republican,14172,0.10161980768817089,42129
+1276,2018 General Election,WESTMORELAND,Representative in the General Assembly,Democratic,6228,0.044657646223675435,42129
+1277,2018 General Election,WESTMORELAND,Representative in the General Assembly,Republican,14623,0.10485368669377101,42129
+1278,2018 General Election,WYOMING,United States Senator,Democratic,3689,0.3621637541723935,42131
+1279,2018 General Election,WYOMING,United States Senator,Republican,6326,0.6210484979383467,42131
+1280,2018 General Election,WYOMING,United States Senator,Green,82,0.008050265069703515,42131
+1281,2018 General Election,WYOMING,United States Senator,Libertarian,89,0.008737482819556254,42131
+1282,2018 General Election,WYOMING,Governor,Democratic,3918,0.3836662749706228,42131
+1283,2018 General Election,WYOMING,Governor,Republican,6106,0.5979240109674893,42131
+1284,2018 General Election,WYOMING,Governor,Green,94,0.009204857030943987,42131
+1285,2018 General Election,WYOMING,Governor,Libertarian,94,0.009204857030943987,42131
+1286,2018 General Election,WYOMING,Representative in Congress,Democratic,3408,0.3370919881305638,42131
+1287,2018 General Election,WYOMING,Representative in Congress,Republican,6702,0.6629080118694362,42131
+1288,2018 General Election,WYOMING,Senator in the General Assembly,Republican,7733,0.8237988707787366,42131
+1289,2018 General Election,WYOMING,Senator in the General Assembly,Green,1654,0.17620112922126344,42131
+1290,2018 General Election,WYOMING,Representative in the General Assembly,Republican,7803,0.800718317085685,42131
+1291,2018 General Election,WYOMING,Representative in the General Assembly,Libertarian,1942,0.19928168291431503,42131
+1292,2018 General Election,YORK,United States Senator,Democratic,68366,0.4104143404291083,42133
+1293,2018 General Election,YORK,United States Senator,Republican,94535,0.5675119163394926,42133
+1294,2018 General Election,YORK,United States Senator,Green,1272,0.007636062385188921,42133
+1295,2018 General Election,YORK,United States Senator,Libertarian,2405,0.014437680846210183,42133
+1296,2018 General Election,YORK,Governor,Democratic,74182,0.44592052032676716,42133
+1297,2018 General Election,YORK,Governor,Republican,89145,0.5358656383560656,42133
+1298,2018 General Election,YORK,Governor,Green,896,0.005386007201380164,42133
+1299,2018 General Election,YORK,Governor,Libertarian,2134,0.012827834115787133,42133
+1300,2018 General Election,YORK,Representative in Congress,Democratic,41059,0.24704721448384165,42133
+1301,2018 General Election,YORK,Representative in Congress,Republican,52310,0.31474316933314883,42133
+1302,2018 General Election,YORK,Representative in Congress,Democratic,24045,0.14467596074585287,42133
+1303,2018 General Election,YORK,Representative in Congress,Republican,48785,0.29353365543715665,42133
+1304,2018 General Election,YORK,Senator in the General Assembly,Democratic,36362,0.3002741626478166,42133
+1305,2018 General Election,YORK,Senator in the General Assembly,Republican,61168,0.5051199048688644,42133
+1306,2018 General Election,YORK,Senator in the General Assembly,Democratic,9506,0.07849970271520117,42133
+1307,2018 General Election,YORK,Senator in the General Assembly,Republican,14060,0.11610622976811785,42133
+1308,2018 General Election,YORK,Representative in the General Assembly,Democratic,8805,0.05633289188307326,42133
+1309,2018 General Election,YORK,Representative in the General Assembly,Republican,15902,0.10173829037190585,42133
+1310,2018 General Election,YORK,Representative in the General Assembly,Democratic,7684,0.049160924614370806,42133
+1311,2018 General Election,YORK,Representative in the General Assembly,Republican,17487,0.11187885069384465,42133
+1312,2018 General Election,YORK,Representative in the General Assembly,Democratic,9108,0.058271434329475444,42133
+1313,2018 General Election,YORK,Representative in the General Assembly,Republican,17436,0.1115525613711829,42133
+1314,2018 General Election,YORK,Representative in the General Assembly,Democratic,7903,0.05056204935285951,42133
+1315,2018 General Election,YORK,Representative in the General Assembly,Republican,15632,0.10001087631075539,42133
+1316,2018 General Election,YORK,Representative in the General Assembly,Democratic,12177,0.07790637415788565,42133
+1317,2018 General Election,YORK,Representative in the General Assembly,Democratic,7271,0.04651862088379621,42133
+1318,2018 General Election,YORK,Representative in the General Assembly,Republican,17511,0.11203239861039135,42133
+1319,2018 General Election,YORK,Representative in the General Assembly,Republican,19387,0.12403472742045898,42133

@@ -1,0 +1,90 @@
+#mcandrew
+
+import sys
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+def listPACounties():
+    fips2name = {42001:"Adams",42003:"Allegheny",42005:"Armstrong",42007:"Beaver",42009:"Bedford",42011:"Berks",42013:"Blair",42015:"Bradford",
+                 42017:"Bucks",42019:"Butler",42021:"Cambria",42023:"Cameron",42025:"Carbon",42027:"Centre",42029:"Chester",42031:"Clarion",
+                 42033:"Clearfield",42035:"Clinton",42037:"Columbia",42039:"Crawford",42041:"Cumberland",42043:"Dauphin",42045:"Delaware",
+                 42047:"Elk",42049:"Erie",42051:"Fayette",42053:"Forest",42055:"Franklin",42057:"Fulton",42059:"Greene",42061:"Huntingdon",
+                 42063:"Indiana",42065:"Jefferson",42067:"Juniata",42069:"Lackawanna",42071:"Lancaster",42073:"Lawrence",42075:"Lebanon"	,
+                 42077:"Lehigh",42079:"Luzerne",42081:"Lycoming",42083:"McKean",42085:"Mercer",42087:"Mifflin",42089:"Monroe",42091:"Montgomery",
+                 42093:"Montour",42095:"Northampton",42097:"Northumberland",42099:"Perry",42101:"Philadelphia",42103:"Pike",42105:"Potter",
+                 42107:"Schuylkill",42109:"Snyder",42111:"Somerset",42113:"Sullivan",42115:"Susquehanna",42117:"Tioga",42119:"Union",
+                 42121:"Venango",42123:"Warren",42125:"Washington",42127:"Wayne",42129:"Westmoreland",42131:"Wyoming",42133:"York"}
+    return fips2name
+
+if __name__ == "__main__":
+
+
+    import requests
+    
+    apiCall = "https://api.census.gov/data/2019/acs/acs1?get=NAME,group(C02003)&for=county:*&key=a91165802219cb96daf8deb34f4eaa8f9ecdc66c"
+
+    response = requests.get(apiCall)
+
+    headers = response.json()[0]   
+    rawdata = response.json()[1:]
+
+    dataframe = {}
+    for header in headers:
+        dataframe[header]=[]
+        
+    for data in rawdata:
+        for header,datum in zip(headers,data):
+            dataframe[header].append( datum )
+
+    uniqName = []
+    for name in dataframe['NAME']:
+        if name not in uniqName:
+            uniqName.append(name)
+    dataframe['NAME'] = uniqName
+    dataframe = pd.DataFrame(dataframe)
+
+    totals = [ n for n,x in enumerate(dataframe.columns) if x[-1]=="E" or x=="GEO_ID" or x=="state" or x == "NAME" or x == 'county' ]
+    d = dataframe.iloc[:, totals ]
+    
+    fromcode2txt = {
+        "C02003_001":"Total:",
+        "C02003_002":"Population of one race:",
+        "C02003_003":"White",
+        "C02003_004":"Black or African American",
+        "C02003_005":"American Indian and Alaska Native",
+        "C02003_006":"Asian",
+        "C02003_007":"Native Hawaiian and Other Pacific Islander",
+        "C02003_008":"Some other race",
+        "C02003_009":"Population of two or more races:",
+        "C02003_010":"Two races including Some other race",
+        "C02003_011":"Two races excluding Some other race, self.assertNotIn(member, container)d three or more races",
+        "C02003_012":"Population of two races:",
+        "C02003_013":"White; Black or African American",
+        "C02003_014":"White; American Indian and Alaska Native",
+        "C02003_015":"White; Asian",
+        "C02003_016":"Black or African American; American Indian and Alaska Native",
+        "C02003_017":"All other two race combinations",
+        "C02003_018":"Population of three races",
+        "C02003_019":"Population of four or more races"}
+
+    newNames = {}
+    for c in d.columns:
+        try:
+            newNames[c] = fromcode2txt[c[:-1]]
+        except:
+            pass
+    d = d.rename(columns=newNames)
+
+    PA = d.loc[d.state=="42",:]
+
+    fromFIPS2countyName  = listPACounties()
+    fromname2fips = {v:k for k,v in fromFIPS2countyName.items()}
+
+    FIPS = []
+    for x in PA.NAME:
+        county = x.split(" ")[0]
+        FIPS.append( fromname2fips[county] )
+    PA['fips'] = FIPS
+    d.to_csv("./PA_ACS_2019.csv")
